@@ -1,0 +1,255 @@
+/*!
+autor: Karasik Vadim
+project: 
+*/
+
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+p{
+    /*display: flex;*/
+}
+
+@font-face {
+    font-family: "HelveticaNeueCyr-Roman";
+    src: url("../fonts/HelveticaNeueCyr-Roman.eot");
+    src: url("../fonts/HelveticaNeueCyr-Roman.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaNeueCyr-Roman.woff") format("woff"),
+    url("../fonts/HelveticaNeueCyr-Roman.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "HelveticaNeueCyr-Medium";
+    src: url("../fonts/HelveticaNeueCyr-Medium.eot");
+    src: url("../fonts/HelveticaNeueCyr-Medium.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaNeueCyr-Medium.woff") format("woff"),
+    url("../fonts/HelveticaNeueCyr-Medium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "HelveticaNeueCyr-Thin";
+    src: url("../fonts/HelveticaNeueCyr-Thin.eot");
+    src: url("../fonts/HelveticaNeueCyr-Thin.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaNeueCyr-Thin.woff") format("woff"),
+    url("../fonts/HelveticaNeueCyr-Thin.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "HelveticaNeueCyr-Light";
+    src: url("../fonts/HelveticaNeueCyr-Light.eot");
+    src: url("../fonts/HelveticaNeueCyr-Light.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaNeueCyr-Light.woff") format("woff"),
+    url("../fonts/HelveticaNeueCyr-Light.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "HelveticaNeueCyr-Bold";
+    src: url("../fonts/HelveticaNeueCyr-Bold.eot");
+    src: url("../fonts/HelveticaNeueCyr-Bold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaNeueCyr-Bold.woff") format("woff"),
+    url("../fonts/HelveticaNeueCyr-Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+body{
+    font-size: 62.5%;
+    font-family: "HelveticaNeueCyr-Roman", Arial, Helvetica, sans-serif;
+    color: #3b3b3b;
+}
+
+header{
+    padding: 30px 0 100px;
+    background: url('../img/header-bg.jpg') no-repeat;
+    text-align: center;
+    
+    h1{
+        font-size: 450%;
+        color: #ffffff;
+        margin: 20px 0 20px;
+        font-family: "HelveticaNeueCyr-Medium";
+    }
+    
+    p{
+        color: #ffffff;
+        font-size: 250%;
+        line-height: 1.27;
+        font-family: "HelveticaNeueCyr-Thin";
+    }
+}
+
+.home{
+    position: absolute;
+    left: 20px;
+    top: 30px;
+    color: #ffffff;
+    text-decoration: underline;
+    font-family: "HelveticaNeueCyr-Roman";
+    font-size: 160%;
+     
+    &:hover,&:active,&:visited,&:focus{
+        color: #ffffff;
+        text-decoration: none;
+    }
+}
+.configurator{
+    margin: 50px 0 100px;
+    font-size: 160%;
+    
+    h2{
+        font-size: 190%;
+        font-family: "HelveticaNeueCyr-Light";
+        margin: 40px 0 15px;
+    }
+}
+
+.form-control{
+    width: 30%;
+    display: inline-block;
+}
+
+.number{
+    width: 30px;
+    
+    input{
+        width: 80%;
+    }
+}
+
+.clear,
+#clear-all,
+.price,
+.avail,
+.number,
+.del-cmpt,.choose, .cmpt-avail, .cmpt-price, .total-avail, .total-price, .price-for-count{
+    text-align: center;
+}
+
+
+.component{
+    a{
+        border-bottom: 1px dashed #337ab7;
+        
+        &:hover,&:active,&:visited,&:focus{
+            border: none;
+            text-decoration: none;
+        }
+    }
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.shortname,
+.price-hidden{display: none;}
+
+thead{
+    background: #606060;
+    color: #ffffff;
+}
+
+.subcategory{
+    background: #777777;
+    color: #ffffff;
+    
+    &:hover{
+        background: #777777 !important;
+    color: #ffffff !important;    
+    }
+}
+
+form{
+    
+    input,select{
+        margin-bottom: 15px;
+    }
+    
+    p{
+        margin-bottom: 15px;
+    }
+}
+
+.pricelist{
+    font-size: 160%;
+    margin: 40px 0;
+    
+    h1{
+        font-size: 200%;
+        font-family: "HelveticaNeueCyr-Light";
+        margin-bottom: 20px;
+    }
+    
+    .form-control{
+        width: 50%;
+    }
+    
+    .name{
+        text-align: left;
+    }
+    
+    .show-price{
+        margin-bottom: 20px;
+    }
+}
+
+.checkbox{
+    display: inline-block;
+    line-height: 1.35;
+    float: right;
+}
+
+
+//Extra small devices Phones (<768px)	
+//Small devices Tablets (≥768px)	
+//Medium devices Desktops (≥992px)	
+//Large devices Desktops (≥1200px)

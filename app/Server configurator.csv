@@ -1,0 +1,93 @@
+category;name;shortname;relevant;subcategory;price;availability;link
+platform;"RS300-E9-RS4 (1U, 1xLGA1151, 4xDDR4 ECC, 4x3,5"" HotSwap, 2x2,5"" SSD, 2xM,2, Intel SW Raid 0/1/5/10, DVD-RW, VGA, 4xGbE, 2x450W Gold HotSwap)";RS300-E9-RS4;RS300;"Стоечные однопроцессорные платформы (19"")";840;7;https://www.asus.com/us/Commercial-Servers-Workstations/RS300-E9-RS4/
+platform;"RS300-E9-PS4 (1U, 1xLGA1151, 4xDDR4 ECC, 4x3,5"" HotSwap, 2x2,5"" SSD, 2xM,2, Intel SW Raid 0/1/5/10, DVD-RW, VGA, 4xGbE, 400W Gold)";RS300-E9-PS4;RS300;"Стоечные однопроцессорные платформы (19"")";620;30;https://www.asus.com/us/Commercial-Servers-Workstations/RS300-E9-PS4/
+platform;"RS200-E9-PS2-F (1U, 1xLGA1151, 4xDDR4 ECC, 2x2,5"" HotSwap, 2x2,5"" SSD, 2xM,2, Intel SW Raid 0/1/5/10, VGA, 4xGbE, 250W Bronze, Front interfaces, 383mm dpt)";RS200-E9-RS2-F;RS200;"Стоечные однопроцессорные платформы (19"")";570;7;https://www.asus.com/Commercial-Servers-Workstations/RS200-E9-PS2-F/
+platform;"RS100-E9-PI2 (1U, 1xLGA1151, 4xDDR4 ECC, 2x3,5""/4x2,5"" SATA, 2xM,2, Intel SW Raid 0/1/5/10, DVD-RW, VGA, 2xGbE, 250W Bronze, 380mm dpt)";RS100-E9-PI2;RS100;"Стоечные однопроцессорные платформы (19"")";440;7;https://www.asus.com/us/Commercial-Servers-Workstations/RS100-E9-PI2/
+platform;"RS720-E8-RS24-E (2U, 2xLGA2011, 16xDDR4 RDIMM, 24+2x2,5"" HotSwap, PIKE 2208/1Gb, 4xGbE, iKVM, 2x770W Gold HotSwap)";RS720-E8-RS24-E;RS720;"Стоечные двухпроцессорные платформы (19"")";2220;7;https://www.asus.com/ru/Commercial-Servers-Workstations/RS720E8RS24E/
+platform;"RS700-E8-RS8 V2 (1U, 2xLGA2011, 24xDDR4 RDIMM, 8*2,5"" HotSwap, Intel SW Raid 0/1/5/10, DVD-RW, 2xGbE, iKVM, 2x800W Platinum HotSwap)";RS700-E8-RS8 V2;RS700;"Стоечные двухпроцессорные платформы (19"")";1350;30;https://www.asus.com/us/Commercial-Servers-Workstations/RS700-E8-RS8-V2/
+platform;"RS540-E8-RS36-ECP (4U, 2xLGA2011, 16xDDR4 RDIMM, 36x3,5""+2x2,5"" HotSwap, PIKE 3108/240PD/2Gb, 2xGbE, iKVM, 2x800W Platinum HotSwap)";RS540-E8-RS36-ECP;RS540;"Стоечные двухпроцессорные платформы (19"")";2200;7;https://www.asus.com/ru/Commercial-Servers-Workstations/RS540-E8-RS36-ECP/
+platform;"RS520-E8-RS8 V2 (2U, 2xLGA2011, 16xDDR4 RDIMM, 8x3,5"" HotSwap, Intel SW Raid 0/1/5/10, DVD-RW, 2xGbE, iKVM, 2x770W Gold HotSwap)";RS520-E8-RS8 V2;RS520;"Стоечные двухпроцессорные платформы (19"")";1270;7;https://www.asus.com/ru/Commercial-Servers-Workstations/RS520E8RS8-V2/overview/
+platform;"RS520-E8-RS12-E V2 (2U, 16xDDR4 RDIMM, 12x3,5""+2x2,5"" HotSwap, no raid (Intel raid only for 2x2,5"" SSD/HDD), 2xGbE, iKVM, 2x770W Gold HotSwap)";RS520-E8-RS12-E V2;RS520;"Стоечные двухпроцессорные платформы (19"")";1400;30;https://www.asus.com/ru/Commercial-Servers-Workstations/RS520E8RS12E-V2/
+platform;"RS500-E8-RS4 V2 (1U, 2xLGA2011, 16xDDR4 RDIMM, 4x3,5"" HotSwap, Intel SW Raid 0/1/5/10, DVD-RW, 2xGbE, iKVM, 2x770W Platinum HotSwap)";RS500-E8-RS4 V2;RS500;"Стоечные двухпроцессорные платформы (19"")";1070;7;https://www.asus.com/Commercial-Servers-Workstations/RS500E8RS4-V2/
+platform;"RS500-E8-PS4 V2 (1U, 2xLGA2011, 16xDDR4 RDIMM, 4x3,5"" HotSwap, Intel SW Raid 0/1/5/10, DVD-RW, 2xGbE, iKVM, 600W Gold)";RS500-E8-PS4 V2;RS500;"Стоечные двухпроцессорные платформы (19"")";830;7;https://www.asus.com/Commercial-Servers-Workstations/RS500E8PS4-V2/
+platform;"RS400-E8-PS2-F (1U, 2xLGA2011, 16xDDR4 RDIMM, 2x2,5"" HotSwap, Intel SW Raid 0/1/5/10, 2xGbE, iKVM, 500W Platinum, Front interfaces, 383mm dpt!)";RS400-E8-PS2-F;RS400;"Стоечные двухпроцессорные платформы (19"")";720;7;https://www.asus.com/ru/Commercial-Servers-Workstations/RS400E8PS2F/
+platform;"ESC4000 G3 (2U, 2xLGA2011,16xDDR4  RDIMM, 8x3,5"" HotSwap, Intel SW Raid 0/1/5/10, 2xGbE, iKVM, 2x1620W Platinum HotSwap, 4x2slot or 8x1slot GPU/VGA support!)";ESC4000 G3;ESC4000;"Стоечные двухпроцессорные платформы (19"")";2200;7;https://www.asus.com/ru/Commercial-Servers-Workstations/ESC4000_G3/
+platform;"TS700-E8-RS8 V2 (Tower/5U, 2xLGA2011, 16xDDR4 RDIMM, 8x3,5""+2x2,5"" HotSwap, M,2, Intel SW Raid 0/1/5/10, DVD-RW, HDAudio, 2xGbE, iKVM, 2x800W Gold HotSwap)";TS700-E8-RS8 V2;TS700;Башенные/универсальные платформы/графические рабочие станции;1320;30;https://www.asus.com/ru/Commercial-Servers-Workstations/TS700-E8-RS8-V2/
+platform;"TS500-E8-PS4 V2 (Tower/5U, 2xLGA2011, 8xDDR4 RDIMM, 4x3,5"" HotSwap (up to 8), Intel SW Raid 0/1/5/10, DVD-RW, 2xGbE, iKVM, 500W Bronze)";TS500-E8-PS4 V2;TS500;Башенные/универсальные платформы/графические рабочие станции;780;30;https://www.asus.com/ru/Commercial-Servers-Workstations/TS500-E8-PS4-V2/
+platform;"TS300-E9-PS4 (Tower/5U, 1xLGA1151, 4xDDR4 ECC, 4x3,5"" HotSwap (up to 8), Intel SW Raid 0/1/5/10, DVD-RW, VGA, 4xGbE, 500W Bronze)";TS300-E9-PS4;TS300;Башенные/универсальные платформы/графические рабочие станции;600;7;https://www.asus.com/us/Commercial-Servers-Workstations/TS300-E9-PS4/
+platform;"TS100-E9-PI4 (Tower, 1xLGA1151, 4xDDR4 ECC, 4x3,5""+1x2,5""SATA, Intel SW Raid 0/1/5/10, DVD-RW, VGA, 2xGbE, 300W Bronze)";TS100-E9-PI4;TS100;Башенные/универсальные платформы/графические рабочие станции;450;7;https://www.asus.com/us/Commercial-Servers-Workstations/TS100-E9-PI4/
+platform;"ESC700 G3 (Tower, 1xLGA2011, X99 WS, 8xDDR4, 4x3,5""+1x2,5""SATA, M,2, Intel SW Raid 0/1/5/10, DVD-RW, CR, HDAudio, 2xGbE, 700W Gold)";ESC700 G3;ESC700;Башенные/универсальные платформы/графические рабочие станции;590;7;https://www.asus.com/Commercial-Servers-Workstations/ESC700-G3/
+platform;"ESC500 G4 (Tower, 1xLGA1151, C236, 4xDDR4, 4x3,5""+1x2,5""SATA, Intel SW Raid 0/1/5/10, DVD-RW, CR, 2xGbE, 500W Bronze)";ESC500 G4;ESC500;Башенные/универсальные платформы/графические рабочие станции;480;7;https://www.asus.com/ru/Commercial-Servers-Workstations/ESC500-G4/
+cpu;Xeon E3-1270v6 (4/8, 3.80, 8M);Xeon E3-1270v6 ;TS100/TS300/RS100/RS200/RS300/ESC500;Процессоры E3 для односокетных платформ (TS100/TS300, RS100/RS200/RS300, ESC500);360;14;
+cpu;Xeon E3-1240v6 (4/8, 3.70, 8M);Xeon E3-1240v6 ;TS100/TS300/RS100/RS200/RS300/ESC500;Процессоры E3 для односокетных платформ (TS100/TS300, RS100/RS200/RS300, ESC500);290;14;
+cpu;Xeon E3-1230v6 (4/8, 3.50, 8M);Xeon E3-1230v6 ;TS100/TS300/RS100/RS200/RS300/ESC500;Процессоры E3 для односокетных платформ (TS100/TS300, RS100/RS200/RS300, ESC500);260;7;
+cpu;Xeon E3-1220v6 (4/4, 3.00, 8M);Xeon E3-1220v6 ;TS100/TS300/RS100/RS200/RS300/ESC500;Процессоры E3 для односокетных платформ (TS100/TS300, RS100/RS200/RS300, ESC500);210;7;
+cpu;Xeon E3-1245v6 (4/8, 3.70, 8M, Intel HD Graphics P630);Xeon E3-1245v6;ESC500;Процессоры E3 с видеоядром (для графической станции ESC500 без использования дискретной видеокарты);310;7;
+cpu;Xeon E3-1225v6 (4/4, 3.30, 8M, Intel HD Graphics P630);Xeon E3-1225v6;ESC500;Процессоры E3 с видеоядром (для графической станции ESC500 без использования дискретной видеокарты);240;7;
+cpu;Xeon E5-1650v4 (6/12, 3.60, 15M);Xeon E5-1650v4;ESC700;Процессоры E5 для однопроцессорной графической станции ESC700;670;14;
+cpu;Xeon E5-1620v4 (4/8, 3.50, 10M);Xeon E5-1620v4;ESC700;Процессоры E5 для однопроцессорной графической станции ESC700;310;7;
+cpu;Xeon E5-2690v4 (14/28, 2.60, 35M);Xeon E5-2690v4 ;RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700;Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700;2220;14;
+cpu;Xeon E5-2680v4 (14/28, 2.40, 35M);Xeon E5-2680v4 ;RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700;Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700;1710;14;
+cpu;Xeon E5-2667v4 (8/16, 3.20, 25M);Xeon E5-2667v4 ;RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700;Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700;2310;14;
+cpu;Xeon E5-2660v4 (14/28, 2.00, 35M);Xeon E5-2660v4 ;RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700;Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700;1460;14;
+cpu;Xeon E5-2650v4 (12/24, 2.20, 30M);Xeon E5-2650v4 ;RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700;Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700;1110;14;
+cpu;Xeon E5-2643v4 (6/12, 3.40, 20M);Xeon E5-2643v4 ;RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700;Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700;1710;14;
+cpu;Xeon E5-2640v4 (10/20, 2.40, 25M);Xeon E5-2640v4 ;RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700;Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700;980;7;
+cpu;Xeon E5-2637v4 (4/8, 3.50, 15M);Xeon E5-2637v4 ;RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700;Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700;1130;14;
+cpu;Xeon E5-2630v4 (10/20, 2.20, 25M);Xeon E5-2630v4 ;RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700;Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700;670;14;
+cpu;Xeon E5-2623v4 (4/8, 2.60, 10M);Xeon E5-2623v4 ;RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700;Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700;510;14;
+cpu;Xeon E5-2620v4 (8/16, 2.10, 20M);Xeon E5-2620v4 ;RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700;Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700;430;7;
+cpu;Xeon E5-2620v3 (6/12, 2.40, 15M);Xeon E5-2620v3 ;RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700;Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700;410;7;
+cpu;Xeon E5-2609v4 (8/8, 1.70, 20M);Xeon E5-2609v4 ;RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700;Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700;320;7;
+cpu;Xeon E5-2603v3 (6/6, 1.60, 15M);Xeon E5-2603v3 ;RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700;Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700;220;7;
+ram;8Gb DDR4 UDIMM ECC 2133Mhz;8Gb DDR4 ECC ;TS100/TS300/RS100/RS200/RS300/ESC500;Память для серверов с процессорами E3 (TS100/TS300, RS100/RS200/RS300, ESC500);80;7;
+ram;8Gb DDR4 UDIMM ECC 2400Mhz;8Gb DDR4 ECC 2400Mhz ;TS100/TS300/RS100/RS200/RS300/ESC500;Память для серверов с процессорами E3 (TS100/TS300, RS100/RS200/RS300, ESC500);90;30;
+ram;16Gb DDR4 UDIMM ECC 2400Mhz;16Gb DDR4 ECC 2400Mhz ;TS100/TS300/RS100/RS200/RS300/ESC500;Память для серверов с процессорами E3 (TS100/TS300, RS100/RS200/RS300, ESC500);160;7;
+ram;8Gb DDR4 RDIMM 2133Mhz;8Gb DDR4 RDIMM ;RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700;Память для серверов с процессорами E5 (RS400/RS500/RS520/RS540, TS500/TS700, ESC4000/ESC700);90;7;
+ram;8Gb DDR4 RDIMM 2400Mhz;8Gb DDR4 RDIMM 2400Mhz ;RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700;Память для серверов с процессорами E5 (RS400/RS500/RS520/RS540, TS500/TS700, ESC4000/ESC700);110;30;
+ram;16Gb DDR4 RDIMM 2133Mhz;16Gb DDR4 RDIMM ;RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700;Память для серверов с процессорами E5 (RS400/RS500/RS520/RS540, TS500/TS700, ESC4000/ESC700);160;7;
+ram;16Gb DDR4 RDIMM 2400Mhz;16Gb DDR4 RDIMM 2400Mhz ;RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700;Память для серверов с процессорами E5 (RS400/RS500/RS520/RS540, TS500/TS700, ESC4000/ESC700);170;7;
+ram;32Gb DDR4 LRDIMM 2400Mhz;32Gb DDR4 LRDIMM 2400Mhz ;RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700;Память для серверов с процессорами E5 (RS400/RS500/RS520/RS540, TS500/TS700, ESC4000/ESC700);390;30;
+ssd;Intel S3710 800Gb SSD /DWPD=17!;Intel S3710 800Gb SSD ;forall;Серверные SSD диски;1360;14;
+ssd;Intel S3710 400Gb SSD /DWPD=17!;Intel S3710 400Gb SSD ;forall;Серверные SSD диски;540;7;
+ssd;Intel S3710 200Gb SSD /DWPD=17!;Intel S3710 200Gb SSD ;forall;Серверные SSD диски;350;14;
+ssd;Intel S3610 800Gb SSD /DWPD=3;Intel S3610 800Gb SSD ;forall;Серверные SSD диски;640;7;
+ssd;Intel S3610 480Gb SSD /DWPD=3;Intel S3610 480Gb SSD ;forall;Серверные SSD диски;530;14;
+ssd;Intel S3610 400Gb SSD /DWPD=3;Intel S3610 400Gb SSD ;forall;Серверные SSD диски;440;14;
+ssd;Intel S3610 200Gb SSD /DWPD=3;Intel S3610 200Gb SSD ;forall;Серверные SSD диски;230;14;
+ssd;Intel S3520 960Gb SSD /DWPD=1;Intel S3520 960Gb SSD ;forall;Серверные SSD диски;560;14;
+ssd;Intel S3520 800Gb SSD /DWPD=1;Intel S3520 800Gb SSD ;forall;Серверные SSD диски;470;7;
+ssd;Intel S3520 480Gb SSD /DWPD=1;Intel S3520 480Gb SSD ;forall;Серверные SSD диски;280;7;
+ssd;Intel S3520 240Gb SSD /DWPD=1;Intel S3520 240Gb SSD ;forall;Серверные SSD диски;190;14;
+ssd;Intel S3520 150Gb SSD /DWPD=1;Intel S3520 150Gb SSD ;forall;Серверные SSD диски;110;7;
+hdd;"HDD 3,5"" 8Tb 7200rpm, 256MB, Enterprise";8Tb SATA 7.2k Ent HDD ;RS300/RS100/RS540/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500;"Серверные HDD диски SATA LFF (3,5"")";350;7;
+hdd;"HDD 3,5"" 6Tb 7200rpm, 128MB, Enterprise";6Tb SATA 7.2k Ent HDD ;RS300/RS100/RS540/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500;"Серверные HDD диски SATA LFF (3,5"")";220;14;
+hdd;"HDD 3,5"" 4Tb 7200rpm, 128MB, Enterprise";4Tb SATA 7.2k Ent HDD ;RS300/RS100/RS540/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500;"Серверные HDD диски SATA LFF (3,5"")";170;7;
+hdd;"HDD 3,5"" 2Tb 7200rpm, 128MB, Enterprise";2Tb SATA 7.2k Ent HDD ;RS300/RS100/RS540/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500;"Серверные HDD диски SATA LFF (3,5"")";120;7;
+hdd;"HDD 3,5"" 1Tb 7200rpm, 128MB, Enterprise";1Tb SATA 7.2k Ent HDD ;RS300/RS100/RS540/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500;"Серверные HDD диски SATA LFF (3,5"")";90;7;
+hdd;"HDD 2,5"" 2Tb 7200rpm, 128MB, Enterprise";2Tb SATA 7.2k Ent HDD ;forall;"Серверные HDD диски SATA SFF (2,5"")";340;14;
+hdd;"HDD 2,5"" 1Tb 7200rpm, 128MB, Enterprise";1Tb SATA 7.2k Ent HDD ;forall;"Серверные HDD диски SATA SFF (2,5"")";190;14;
+hdd;HDD 300Gb SAS 12Gbs, 10k, 128MB;300Gb SAS 12Gbs 10k Ent HDD;forall;"Серверные HDD диски SAS 2,5"" (для работы требуется SAS-контроллер)";130;14;
+hdd;HDD 300Gb SAS 12Gbs, 15k, 128MB;300Gb SAS 12Gbs 15k Ent HDD;forall;"Серверные HDD диски SAS 2,5"" (для работы требуется SAS-контроллер)";200;14;
+hdd;HDD 600Gb SAS 12Gbs, 10k, 128MB;600Gb SAS 12Gbs 10k Ent HDD;forall;"Серверные HDD диски SAS 2,5"" (для работы требуется SAS-контроллер)";210;7;
+hdd;HDD 600Gb SAS 12Gbs, 15k, 128MB;600Gb SAS 12Gbs 15k Ent HDD;forall;"Серверные HDD диски SAS 2,5"" (для работы требуется SAS-контроллер)";320;14;
+hdd;HDD 900Gb SAS 12Gbs, 10k, 128MB;900Gb SAS 12Gbs 10k Ent HDD;forall;"Серверные HDD диски SAS 2,5"" (для работы требуется SAS-контроллер)";270;14;
+hdd;HDD 1Tb SAS 12Gbs, 7200rpm, 128MB;1Tb SAS 12Gbs 7.2k Ent HDD ;RS300/RS100/RS540/RS520/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500;"Серверные HDD диски SAS 3,5"" (для работы требуется SAS-контроллер)";100;14;
+hdd;HDD 2Tb SAS 12Gbs, 7200rpm, 128MB;2Tb SAS 12Gbs 7.2k Ent HDD ;RS300/RS100/RS540/RS520/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500;"Серверные HDD диски SAS 3,5"" (для работы требуется SAS-контроллер)";130;7;
+hdd;HDD 4Tb SAS 12Gbs, 7200rpm, 128MB;4Tb SAS 12Gbs 7.2k Ent HDD ;RS300/RS100/RS540/RS520/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500;"Серверные HDD диски SAS 3,5"" (для работы требуется SAS-контроллер)";180;7;
+hdd;HDD 6Tb SAS 12Gbs, 7200rpm, 128MB;6Tb SAS 12Gbs 7.2k Ent HDD ;RS300/RS100/RS540/RS520/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500;"Серверные HDD диски SAS 3,5"" (для работы требуется SAS-контроллер)";250;7;
+hdd;HDD 8Tb SAS 12Gbs, 7200rpm, 256MB;8Tb SAS 12Gbs 7.2k Ent HDD ;RS300/RS100/RS540/RS520/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500;"Серверные HDD диски SAS 3,5"" (для работы требуется SAS-контроллер)";350;14;
+hdd;8Tb Surveillance HDD, 128MB;8Tb Surveillance HDD ;RS300/RS100/RS540/RS520/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500;Жесткие диски для серверов видеонаблюдения;260;7;
+hdd;6Tb Surveillance HDD, 128MB;6Tb Surveillance HDD ;RS300/RS100/RS540/RS520/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500;Жесткие диски для серверов видеонаблюдения;210;7;
+hdd;4Tb Surveillance HDD, 64MB;4Tb Surveillance HDD ;RS300/RS100/RS540/RS520/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500;Жесткие диски для серверов видеонаблюдения;130;7;
+hdd;3Tb Surveillance HDD, 64MB;3Tb Surveillance HDD ;RS300/RS100/RS540/RS520/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500;Жесткие диски для серверов видеонаблюдения;100;7;
+hdd;2Tb Surveillance HDD, 64MB;2Tb Surveillance HDD ;RS300/RS100/RS540/RS520/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500;Жесткие диски для серверов видеонаблюдения;80;7;
+options;RAID контроллер ASUS PIKE II 3108 SAS 12Gb/s RAID 0/1/10/5/6/50/60 /2Gb;PIKE 3108/2Gb ;forall;Дополнительные опции;420;7;https://www.asus.com/ru/Commercial-Servers-Workstations/PIKE-II-3108-8I-240PD-2G/
+options;Батарея резервного питания ASUS LSI CACHE VAULT для контроллеров PIKE II 3108/2Gb;CacheVault ;forall;Дополнительные опции;410;7;
+options;RAID контроллер ASUS PIKE II 3008 SAS 12Gb/s RAID 0/1/1E/10;PIKE 3008 ;forall;Дополнительные опции;180;30;https://www.asus.com/us/Commercial-Servers-Workstations/PIKE_II_30088i/
+options;Модуль удаленного доступа ASMB-IKVM для серверов серий RS100/RS200/RS300/TS300;iKVM ;forall;Дополнительные опции;40;30;https://www.asus.com/us/Commercial-Servers-Workstations/ASMB8iKVM/
+options;Сетевой контроллер Intel i350-T2 Dual Port Gigabit Server Adapter (I350T2V2BLK, PCI-E x4, FDX, 2x 1000BASE-T, VMDq);(4)GbE ;forall;Дополнительные опции;130;7;
+options;Сетевой контроллер ASUS PEB-10G/57840-2T (BCM 57840S Dual Port 10Gbit BASE-T RJ-45 LP, PCI-E);(2)10GbT ;forall;Дополнительные опции;210;7;https://www.asus.com/ru/Commercial-Servers-Workstations/PEB10G578402T/
+options;Сетевой контроллер ASUS PEB-10G/57840-2S (BCM 57840S Dual Port 10Gbit SFP+ LC Fiber Optic LP, PCI-E);(2)10Gb SFP+ ;forall;Дополнительные опции;180;7;https://www.asus.com/us/Commercial-Servers-Workstations/PEB10G578402S/
+options;Сетевой контроллер ASUS MCB-10G-2S (BCM 57840S Dual Port 10Gbit SFP+ LC Fiber Optic LP, OCP (для серверов серий RS5x0/RS7x0);(2)10Gb SFP+ ;forall;Дополнительные опции;170;7;https://www.asus.com/us/Commercial-Servers-Workstations/MCB10G2S/
+options;Рельсы для установки в стойку универсальных платформ TS300/TS500/TS700;Rails ;forall;Дополнительные опции;100;7;
