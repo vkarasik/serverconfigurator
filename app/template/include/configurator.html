@@ -128,22 +128,29 @@
         </table>
         <form action="mail.php" method="post">
             <div class="form-group">
-                <p>Чтобы получить счет на сервер, уточнить срок поставки и возможность скидки, запоните поля ниже, и отправьте запрос менеджеру</p>
-                <input type="text" name="company" class="form-control" id="InputCompany" placeholder="Название вашей компании" required><br>
-                <input type="email" name="email" class="form-control" id="InputEmail" placeholder="Ваш Email" required><br>
-                <select id="managers" class="form-control">
-                    <option data-email="default">Ваш менеджер</option>
-                    <option data-email="y.zenkovich@cd-life.by">Зенькович Юлия</option>
-                    <option data-email="o.skaskevich@cd-life.by">Скаскевич Ольга</option>
-                    <option data-email="i.kazachonok@cd-life.by">Казачонок Ирина</option>
-                    <option data-email="a.trifonov@cd-life.by">Трифонов Артем</option>
-                    <option data-email="v.osipov@cd-life.by">Осипов Владимир</option>
-                    <option data-email="e.mossje@cd-life.by">Екатерина Моссэ</option>
-                    <option data-email="a.gorbachev@cd-life.by">Горбачев Андрей</option>
-                    <option data-email="y.koltsov@cd-life.by">Кольцов Юрий</option>
-                    <option data-email="v.karasik@cd-life.by">Карасик Вадим</option>
-                </select><br>
-                <button type="submit" class="btn btn-primary">Отправить</button>
+                    <p>Чтобы получить счет на сервер, уточнить срок поставки и возможность скидки, запоните поля ниже, и отправьте запрос менеджеру</p>
+                <div class="row">
+                    <div class="col-lg-4">
+                            <input type="text" name="company" class="form-control" id="InputCompany" placeholder="Название вашей компании" required><br>
+                            <input type="email" name="email" class="form-control" id="InputEmail" placeholder="Ваш Email" required><br>
+                            <select id="managers" class="form-control">
+								<option data-email="default">Ваш менеджер</option>
+								<option data-email="y.zenkovich@cd-life.by">Зенькович Юлия</option>
+								<option data-email="o.skaskevich@cd-life.by">Скаскевич Ольга</option>
+								<option data-email="t.neverovskaya@cd-life.by">Неверовская Татьяна</option>
+								<option data-email="a.trifonov@cd-life.by">Трифонов Артем</option>
+								<option data-email="v.osipov@cd-life.by">Осипов Владимир</option>
+								<option data-email="e.mossje@cd-life.by">Екатерина Моссэ</option>
+								<option data-email="a.gorbachev@cd-life.by">Горбачев Андрей</option>
+								<option data-email="a.volkov@cd-life.by">Волков Александр</option>
+								<option data-email="p.petrik@cd-life.by">Петрик Павел</option>
+								<option data-email="n.semenas@cd-life.by">Семенас Наталья</option>
+								<option data-email="v.karasik@cd-life.by">Карасик Вадим</option>
+                            </select><br>
+                            <button type="submit" class="btn btn-primary">Отправить</button>
+                    </div>
+                    <div class="col-lg-8"><textarea name="comment" class="form-control" placeholder="Комментарий" cols="30" rows="6"></textarea></div>
+                </div>
             </div>
         </form>
     </div>

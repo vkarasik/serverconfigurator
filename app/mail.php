@@ -2,12 +2,14 @@
 if( ! empty($_POST) ) {
 
     $data = (object) $_POST;
-    $to = 'v.karasik@cd-life.by, ' . $data->manager . ', ' . $data->email;
+    $to = 'v.karasik@cd-life.by, v.shirshov@cd-life.by, ' . $data->manager . ', ' . $data->email;
     $subject = 'Сборка сервера №'. $data->num;
-    $message = 'Компания: ' . $data->company . ' / Конфигурация: ' . $data->config . ' / Цена: ' . $data->price . ' / Количество: ' . $data->number . ' шт' . ' / Срок поставки: ' . $data->avail . ' дн';
+	$message = "Компания: " . $data->company . "<br>" .  "Конфигурация: " . $data->config .  "<br>" . "Цена: " . $data->price . " USD без НДС" .  "<br>" . "Количество: " . $data->number .  " шт" .  "<br>" . "Срок поставки: " . $data->avail .  " дн" . "<br>" . "Комментарий: " . $data->comment;
 
-    $headers  = "Content-type: text/html; charset=utf-8 \r\n";
-    $headers .= "From: Конфигуратор <from@example.com>\r\n";
+	// На случай если какая-то строка письма длиннее 70 символов мы используем wordwrap()
+	$message = wordwrap($message, 70, "\r\n");
+
+    $headers  = "Content-type: text/html; charset=utf-8 \r\n" .  "From: Конфигуратор <from@example.com>\r\n";
 
     mail($to, $subject, $message, $headers);
 
