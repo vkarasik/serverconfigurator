@@ -41,11 +41,13 @@
                                     <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
                                 </button>
                             </th>
-                        </tr>    
+                        </tr>
                     </thead>
                     <tbody>
                         <tr id="platform">
-                            <td class="component" data-relevant=""><a href="#" class="add-cmpt" data-toggle="modal" data-target=".bs-example-modal-lg" data-component="platform">Платформа</a></td>
+                            <td class="component" data-relevant="">
+                                <a href="#" class="add-cmpt" data-toggle="modal" data-target=".bs-example-modal-lg" data-component="platform">Платформа</a>
+                            </td>
                             <td class="name"></td>
                             <td class="shortname"></td>
                             <td class="price"></td>
@@ -55,7 +57,9 @@
                             <td class="clear"></td>
                         </tr>
                         <tr id="cpu">
-                            <td class="component"><a href="#" class="add-cmpt" data-toggle="modal" data-target=".bs-example-modal-lg" data-component="cpu">Процессор</a></td>
+                            <td class="component">
+                                <a href="#" class="add-cmpt" data-toggle="modal" data-target=".bs-example-modal-lg" data-component="cpu">Процессор</a>
+                            </td>
                             <td class="name"></td>
                             <td class="shortname"></td>
                             <td class="price"></td>
@@ -65,7 +69,9 @@
                             <td class="clear"></td>
                         </tr>
                         <tr id="ram">
-                            <td class="component"><a href="#" class="add-cmpt" data-toggle="modal" data-target=".bs-example-modal-lg" data-component="ram">Оперативная&nbsp;память</a></td>
+                            <td class="component">
+                                <a href="#" class="add-cmpt" data-toggle="modal" data-target=".bs-example-modal-lg" data-component="ram">Оперативная&nbsp;память</a>
+                            </td>
                             <td class="name"></td>
                             <td class="shortname"></td>
                             <td class="price"></td>
@@ -75,7 +81,9 @@
                             <td class="clear"></td>
                         </tr>
                         <tr id="ssd">
-                            <td class="component"><a href="#" class="add-cmpt" data-toggle="modal" data-target=".bs-example-modal-lg" data-component="ssd">SSD&nbsp;диск</a></td>
+                            <td class="component">
+                                <a href="#" class="add-cmpt" data-toggle="modal" data-target=".bs-example-modal-lg" data-component="ssd">SSD&nbsp;диск</a>
+                            </td>
                             <td class="name"></td>
                             <td class="shortname"></td>
                             <td class="price"></td>
@@ -85,7 +93,9 @@
                             <td class="clear"></td>
                         </tr>
                         <tr id="hdd">
-                            <td class="component"><a href="#" class="add-cmpt" data-toggle="modal" data-target=".bs-example-modal-lg" data-component="hdd">Жесткий&nbsp;диск</a></td>
+                            <td class="component">
+                                <a href="#" class="add-cmpt" data-toggle="modal" data-target=".bs-example-modal-lg" data-component="hdd">Жесткий&nbsp;диск</a>
+                            </td>
                             <td class="name"></td>
                             <td class="shortname"></td>
                             <td class="price"></td>
@@ -95,7 +105,9 @@
                             <td class="clear"></td>
                         </tr>
                         <tr id="options">
-                            <td class="component"><a href="#" class="add-cmpt" data-toggle="modal" data-target=".bs-example-modal-lg" data-component="options">Дополнительные&nbsp;опции</a></td>
+                            <td class="component">
+                                <a href="#" class="add-cmpt" data-toggle="modal" data-target=".bs-example-modal-lg" data-component="options">Дополнительные&nbsp;опции</a>
+                            </td>
                             <td class="name"></td>
                             <td class="shortname"></td>
                             <td class="price"></td>
@@ -103,25 +115,20 @@
                             <td class="avail"></td>
                             <td class="number"></td>
                             <td class="clear"></td>
-                        </tr> 
+                        </tr>
                     </tbody>
                 </table>
-                
-                
-                
-               <button id="add-cmpt"class="btn btn-primary">Добавить</button>
+                <button id="add-cmpt" class="btn btn-primary">Добавить</button>
                 <select id="additional-cmpt" class="form-control">
-                  <option data-updatedcmpt="ssd" data-component="ssd">SSD диск</option>
-                  <option data-updatedcmpt="hdd" data-component="hdd">Жесткий диск</option>
-                  <option data-updatedcmpt="options" data-component="options">Дополнительные опции</option>
+                    <option data-updatedcmpt="ssd" data-component="ssd">SSD диск</option>
+                    <option data-updatedcmpt="hdd" data-component="hdd">Жесткий диск</option>
+                    <option data-updatedcmpt="options" data-component="options">Дополнительные опции</option>
                 </select>
                 <div class="checkbox">
                     <label>
-                    <input type="checkbox" value="">Учитывать совместимость компонентов
+                        <input type="checkbox" value="">Учитывать совместимость компонентов
                     </label>
                 </div>
-                
-        
                 <h2>Ваша конфигурация</h2>
                 <table id="config-table" class="table table-bordered table-hover">
                     <thead>
@@ -131,7 +138,7 @@
                             <th style="text-align:center">Количество</th>
                             <th style="text-align:center">Итого&nbsp;USD&nbsp;без&nbsp;НДС</th>
                             <th style="text-align:center">Срок&nbsp;поставки,&nbsp;дней</th>
-                        </tr>    
+                        </tr>
                     </thead>
                     <tbody>
                         <tr>
@@ -143,10 +150,12 @@
                                 <span class="ssd"></span>
                                 <span class="hdd"></span>
                                 <span class="options"></span>
-                                <span>ТУ РБ 190694331.001-2016 )</span>
+                                <span>ТУ РБ 101290106.001-2017 )</span>
                             </td>
                             <td class="total-price"></td>
-                            <td class="number"><input type="text" id="server-count" value="1" class="form-control" placeholder="1"></td>
+                            <td class="number">
+                                <input type="text" id="server-count" value="1" class="form-control" placeholder="1">
+                            </td>
                             <td class="price-for-count"></td>
                             <td class="total-avail"></td>
                         </tr>
@@ -154,61 +163,73 @@
                 </table>
                 <form action="mail.php" method="post">
                     <div class="form-group">
-                            <p>Чтобы получить счет на сервер, уточнить срок поставки и возможность скидки, запоните поля ниже, и отправьте запрос менеджеру</p>
+                        <p>Чтобы получить счет на сервер, уточнить срок поставки и возможность скидки, запоните поля ниже, и отправьте
+                            запрос менеджеру</p>
                         <div class="row">
                             <div class="col-lg-4">
-                                    <input type="text" name="company" class="form-control" id="InputCompany" placeholder="Название вашей компании" required><br>
-                                    <input type="email" name="email" class="form-control" id="InputEmail" placeholder="Ваш Email" required><br>
-                                    <select id="managers" class="form-control">
-                                        <option data-email="default">Ваш менеджер</option>
-                                        <option data-email="y.zenkovich@cd-life.by">Зенькович Юлия</option>
-                                        <option data-email="o.skaskevich@cd-life.by">Скаскевич Ольга</option>
-                                        <option data-email="i.kazachonok@cd-life.by">Казачонок Ирина</option>
-                                        <option data-email="a.trifonov@cd-life.by">Трифонов Артем</option>
-                                        <option data-email="v.osipov@cd-life.by">Осипов Владимир</option>
-                                        <option data-email="e.mossje@cd-life.by">Екатерина Моссэ</option>
-                                        <option data-email="a.gorbachev@cd-life.by">Горбачев Андрей</option>
-                                        <option data-email="y.koltsov@cd-life.by">Кольцов Юрий</option>
-                                        <option data-email="v.karasik@cd-life.by">Карасик Вадим</option>
-                                    </select><br>
-                                    <button type="submit" class="btn btn-primary">Отправить</button>
+                                <input type="text" name="company" class="form-control" id="InputCompany" placeholder="Название вашей компании" required>
+                                <br>
+                                <input type="email" name="email" class="form-control" id="InputEmail" placeholder="Ваш Email" required>
+                                <br>
+                                <select id="managers" class="form-control">
+                                    <option data-email="default">Ваш менеджер</option>
+                                    <option data-email="a.gorbachev@cd-life.by">Горбачев Андрей</option>
+                                    <option data-email="y.zenkovich@cd-life.by">Зенькович Юлия</option>
+                                    <option data-email="o.skaskevich@cd-life.by">Скаскевич Ольга</option>
+                                    <option data-email="t.neverovskaya@cd-life.by">Неверовская Татьяна</option>
+                                    <option data-email="a.trifonov@cd-life.by">Трифонов Артем</option>
+                                    <option data-email="v.osipov@cd-life.by">Осипов Владимир</option>
+                                    <option data-email="d.daneschik@cd-life.by">Данещик Денис</option>
+                                    <option data-email="o.abrutis@cd-life.by">Абрутис Ольга</option>
+                                    <option data-email="a.volkov@cd-life.by">Волков Александр</option>
+                                    <option data-email="n.semenas@cd-life.by">Семенас Наталья</option>
+                                    <option data-email="i.gunko@cd-life.by">Гунько Игорь</option>
+                                    <option data-email="d.troshko@cd-life.by">Денис Трошко</option>
+                                    <option data-email="e.gladkov@cd-life.by">Гладков Евгений</option>
+                                    <option data-email="e.romankova@cd-life.by">Романькова Елена</option>
+                                    <option data-email="v.karasik@cd-life.by">Карасик Вадим</option>
+                                </select>
+                                <br>
+                                <button type="submit" class="btn btn-primary">Отправить</button>
                             </div>
-                            <div class="col-lg-8"><textarea name="comment" class="form-control" placeholder="Комментарий" cols="30" rows="6"></textarea></div>
+                            <div class="col-lg-8">
+                                <textarea name="comment" class="form-control" placeholder="Комментарий" cols="30" rows="6"></textarea>
+                            </div>
                         </div>
                     </div>
                 </form>
             </div>
-        
-        
             <!-- Modal -->
             <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
-              <div class="modal-dialog modal-lg" role="document">
-                <div class="modal-content">
-                  <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title" id="myModalLabel">Modal title</h4>
-                  </div>
-                  <div class="modal-body">
-                    <table class="table table-bordered table-hover">
-                        <thead>
-                            <tr>
-                                <th>Наименование</th>
-                                <th style="display:none">Короткое имя</th>
-                                <th>Цена&nbsp;USD</th>
-                                <th>Срок&nbsp;поставки,&nbsp;дней</th>
-                                <th></th>
-                            </tr>    
-                        </thead>
-                        <tbody>
-                            
-                        </tbody>
-                    </table>
-                  </div>
-                  <div class="modal-footer">
-                    <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
-                  </div>
+                <div class="modal-dialog modal-lg" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                            <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                        </div>
+                        <div class="modal-body">
+                            <table class="table table-bordered table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Наименование</th>
+                                        <th style="display:none">Короткое имя</th>
+                                        <th>Цена&nbsp;USD</th>
+                                        <th>Срок&nbsp;поставки,&nbsp;дней</th>
+                                        <th></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+        
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+                        </div>
+                    </div>
                 </div>
-              </div>
             </div>
         </section>
     </div>    
