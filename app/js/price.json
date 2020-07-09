@@ -1,175 +1,247 @@
 {
    "platform": [
       {
-         "name": "RS300-E9-RS4 (1U, 1xLGA1151, 4xDDR4 ECC, 4x3,5\" HotSwap, 2x2,5\" SSD, 2xM,2, Intel SW Raid 0/1/5/10, DVD-RW, VGA, 4xGbE, 2x450W Gold HotSwap)",
-         "shortname": "RS300-E9-RS4",
-         "relevant": "RS300",
-         "subcategory": "Стоечные однопроцессорные платформы (19\")",
-         "price": 840,
-         "availability": 7,
-         "link": "https://www.asus.com/us/Commercial-Servers-Workstations/RS300-E9-RS4/"
-      },
-      {
-         "name": "RS300-E9-PS4 (1U, 1xLGA1151, 4xDDR4 ECC, 4x3,5\" HotSwap, 2x2,5\" SSD, 2xM,2, Intel SW Raid 0/1/5/10, DVD-RW, VGA, 4xGbE, 400W Gold)",
-         "shortname": "RS300-E9-PS4",
-         "relevant": "RS300",
-         "subcategory": "Стоечные однопроцессорные платформы (19\")",
-         "price": 620,
-         "availability": 30,
-         "link": "https://www.asus.com/us/Commercial-Servers-Workstations/RS300-E9-PS4/"
-      },
-      {
-         "name": "RS200-E9-PS2-F (1U, 1xLGA1151, 4xDDR4 ECC, 2x2,5\" HotSwap, 2x2,5\" SSD, 2xM,2, Intel SW Raid 0/1/5/10, VGA, 4xGbE, 250W Bronze, Front interfaces, 383mm dpt)",
-         "shortname": "RS200-E9-RS2-F",
-         "relevant": "RS200",
-         "subcategory": "Стоечные однопроцессорные платформы (19\")",
-         "price": 570,
-         "availability": 7,
-         "link": "https://www.asus.com/Commercial-Servers-Workstations/RS200-E9-PS2-F/"
-      },
-      {
          "name": "RS100-E9-PI2 (1U, 1xLGA1151, 4xDDR4 ECC, 2x3,5\"/4x2,5\" SATA, 2xM,2, Intel SW Raid 0/1/5/10, DVD-RW, VGA, 2xGbE, 250W Bronze, 380mm dpt)",
          "shortname": "RS100-E9-PI2",
          "relevant": "RS100",
-         "subcategory": "Стоечные однопроцессорные платформы (19\")",
-         "price": 440,
-         "availability": 7,
-         "link": "https://www.asus.com/us/Commercial-Servers-Workstations/RS100-E9-PI2/"
+         "subcategory": "Стоечные (19\") 1-процессорные платформы для процессоров E3",
+         "price": 454,
+         "availability": "7",
+         "link": "https://www.asus.com/Commercial-Servers-Workstations/RS100-E9-PI2/"
       },
       {
-         "name": "RS720-E8-RS24-E (2U, 2xLGA2011, 16xDDR4 RDIMM, 24+2x2,5\" HotSwap, PIKE 2208/1Gb, 4xGbE, iKVM, 2x770W Gold HotSwap)",
-         "shortname": "RS720-E8-RS24-E",
-         "relevant": "RS720",
-         "subcategory": "Стоечные двухпроцессорные платформы (19\")",
-         "price": 2220,
-         "availability": 7,
-         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/RS720E8RS24E/"
+         "name": "RS200-E9-PS2 (1U, 1xLGA1151, 4xDDR4 ECC, 2x2,5\" HotSwap, 2x2,5\" SSD, 2xM,2, Intel SW Raid 0/1/5/10, VGA, 4xGbE, 250W Bronze,383mm dpt)",
+         "shortname": "RS200-E9-PS2",
+         "relevant": "RS200",
+         "subcategory": "Стоечные (19\") 1-процессорные платформы для процессоров E3",
+         "price": 550,
+         "availability": "7",
+         "link": "https://www.asus.com/Commercial-Servers-Workstations/RS200-E9-PS2/"
       },
       {
-         "name": "RS700-E8-RS8 V2 (1U, 2xLGA2011, 24xDDR4 RDIMM, 8*2,5\" HotSwap, Intel SW Raid 0/1/5/10, DVD-RW, 2xGbE, iKVM, 2x800W Platinum HotSwap)",
-         "shortname": "RS700-E8-RS8 V2",
-         "relevant": "RS700",
-         "subcategory": "Стоечные двухпроцессорные платформы (19\")",
-         "price": 1350,
-         "availability": 30,
-         "link": "https://www.asus.com/us/Commercial-Servers-Workstations/RS700-E8-RS8-V2/"
+         "name": "RS300-E9-RS4 (1U, 1xLGA1151, 4xDDR4 ECC, 4x3,5\" HotSwap, 2x2,5\" SSD, 2xM,2, Intel SW Raid 0/1/5/10, DVD-RW, VGA, 4xGbE, 2x450W Gold HotSwap) уточняйте доступность",
+         "shortname": "RS300-E9-RS4",
+         "relevant": "RS300",
+         "subcategory": "Стоечные (19\") 1-процессорные платформы для процессоров E3",
+         "price": 840,
+         "availability": "30",
+         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/RS300-E9-RS4/"
       },
       {
-         "name": "RS540-E8-RS36-ECP (4U, 2xLGA2011, 16xDDR4 RDIMM, 36x3,5\"+2x2,5\" HotSwap, PIKE 3108/240PD/2Gb, 2xGbE, iKVM, 2x800W Platinum HotSwap)",
-         "shortname": "RS540-E8-RS36-ECP",
-         "relevant": "RS540",
-         "subcategory": "Стоечные двухпроцессорные платформы (19\")",
-         "price": 2200,
-         "availability": 7,
-         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/RS540-E8-RS36-ECP/"
+         "name": "RS300-E9-PS4 (1U, 1xLGA1151, 4xDDR4 ECC, 4x3,5\" HotSwap, 2x2,5\" SSD, 2xM,2, Intel SW Raid 0/1/5/10, DVD-RW, VGA, 4xGbE, 400W Gold) уточняйте доступность",
+         "shortname": "RS300-E9-PS4",
+         "relevant": "RS300",
+         "subcategory": "Стоечные (19\") 1-процессорные платформы для процессоров E3",
+         "price": 600,
+         "availability": "30",
+         "link": "https://www.asus.com/Commercial-Servers-Workstations/RS300-E9-PS4/"
       },
       {
-         "name": "RS520-E8-RS8 V2 (2U, 2xLGA2011, 16xDDR4 RDIMM, 8x3,5\" HotSwap, Intel SW Raid 0/1/5/10, DVD-RW, 2xGbE, iKVM, 2x770W Gold HotSwap)",
-         "shortname": "RS520-E8-RS8 V2",
-         "relevant": "RS520",
-         "subcategory": "Стоечные двухпроцессорные платформы (19\")",
-         "price": 1270,
-         "availability": 7,
-         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/RS520E8RS8-V2/overview/"
+         "name": "RS100-E10-PI2 (1U, 1xLGA1151, 4xDDR4 ECC, 2x3,5\" SATA, 2xM,2, Intel SW Raid 0/1/5/10, DVD-RW, VGA, 4xGbE, 250W Bronze, 380mm dpt, Support Xeon E3, i3, Pentium, Celeron)",
+         "shortname": "RS100-E10-PI2",
+         "relevant": "RS100e10",
+         "subcategory": "Стоечные (19\") 1-процессорные платформы для процессоров E",
+         "price": 490,
+         "availability": "30",
+         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/RS100-E10-PI2/"
       },
       {
-         "name": "RS520-E8-RS12-E V2 (2U, 16xDDR4 RDIMM, 12x3,5\"+2x2,5\" HotSwap, no raid (Intel raid only for 2x2,5\" SSD/HDD), 2xGbE, iKVM, 2x770W Gold HotSwap)",
-         "shortname": "RS520-E8-RS12-E V2",
-         "relevant": "RS520",
-         "subcategory": "Стоечные двухпроцессорные платформы (19\")",
-         "price": 1400,
-         "availability": 30,
-         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/RS520E8RS12E-V2/"
+         "name": "RS300-E10-PS4 (1U, 1xLGA1151, 4xDDR4 ECC, 4x3,5\" HotSwap, 2x2,5\" SSD, 2xM,2, Intel SW Raid 0/1/5/10, DVD-RW, VGA, 4xGbE, 400W Gold, Support Xeon E3, i3, Pentium, Celeron)",
+         "shortname": "RS300-E10-PS4",
+         "relevant": "RS300e10",
+         "subcategory": "Стоечные (19\") 1-процессорные платформы для процессоров E",
+         "price": 645,
+         "availability": "30",
+         "link": "https://www.asus.com/Commercial-Servers-Workstations/RS300-E10-PS4/"
       },
       {
-         "name": "RS500-E8-RS4 V2 (1U, 2xLGA2011, 16xDDR4 RDIMM, 4x3,5\" HotSwap, Intel SW Raid 0/1/5/10, DVD-RW, 2xGbE, iKVM, 2x770W Platinum HotSwap)",
-         "shortname": "RS500-E8-RS4 V2",
-         "relevant": "RS500",
-         "subcategory": "Стоечные двухпроцессорные платформы (19\")",
-         "price": 1070,
-         "availability": 7,
-         "link": "https://www.asus.com/Commercial-Servers-Workstations/RS500E8RS4-V2/"
-      },
-      {
-         "name": "RS500-E8-PS4 V2 (1U, 2xLGA2011, 16xDDR4 RDIMM, 4x3,5\" HotSwap, Intel SW Raid 0/1/5/10, DVD-RW, 2xGbE, iKVM, 600W Gold)",
-         "shortname": "RS500-E8-PS4 V2",
-         "relevant": "RS500",
-         "subcategory": "Стоечные двухпроцессорные платформы (19\")",
-         "price": 830,
-         "availability": 7,
-         "link": "https://www.asus.com/Commercial-Servers-Workstations/RS500E8PS4-V2/"
+         "name": "RS300-E10-RS4 (1U, 1xLGA1151, 4xDDR4 ECC, 4x3,5\" HotSwap, 2x2,5\" SSD, 2xM,2, Intel SW Raid 0/1/5/10, DVD-RW, VGA, 4xGbE, 2x450W Gold HotSwap, Support Xeon E3, i3, Pentium, Celeron)",
+         "shortname": "RS300-E10-RS4",
+         "relevant": "RS300e10",
+         "subcategory": "Стоечные (19\") 1-процессорные платформы для процессоров E",
+         "price": 890,
+         "availability": "order",
+         "link": "https://www.asus.com/Commercial-Servers-Workstations/RS300-E10-RS4/"
       },
       {
          "name": "RS400-E8-PS2-F (1U, 2xLGA2011, 16xDDR4 RDIMM, 2x2,5\" HotSwap, Intel SW Raid 0/1/5/10, 2xGbE, iKVM, 500W Platinum, Front interfaces, 383mm dpt!)",
          "shortname": "RS400-E8-PS2-F",
          "relevant": "RS400",
-         "subcategory": "Стоечные двухпроцессорные платформы (19\")",
-         "price": 720,
-         "availability": 7,
+         "subcategory": "Стоечные (19\") двухпроцессорные платформы",
+         "price": 755,
+         "availability": "7",
          "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/RS400E8PS2F/"
       },
       {
-         "name": "ESC4000 G3 (2U, 2xLGA2011,16xDDR4  RDIMM, 8x3,5\" HotSwap, Intel SW Raid 0/1/5/10, 2xGbE, iKVM, 2x1620W Platinum HotSwap, 4x2slot or 8x1slot GPU/VGA support!)",
-         "shortname": "ESC4000 G3",
-         "relevant": "ESC4000",
-         "subcategory": "Стоечные двухпроцессорные платформы (19\")",
-         "price": 2200,
-         "availability": 7,
-         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/ESC4000_G3/"
+         "name": "RS500-E8-RS4 V2 (1U, 2xLGA2011, 16xDDR4 RDIMM, 4x3,5\" HotSwap, Intel SW Raid 0/1/5/10, DVD-RW, 2xGbE, iKVM, 2x770W Platinum HotSwap)",
+         "shortname": "RS500-E8-RS4 V2",
+         "relevant": "RS500",
+         "subcategory": "Стоечные (19\") двухпроцессорные платформы",
+         "price": 1150,
+         "availability": "7",
+         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/RS500E8RS4-V2/"
       },
       {
-         "name": "TS700-E8-RS8 V2 (Tower/5U, 2xLGA2011, 16xDDR4 RDIMM, 8x3,5\"+2x2,5\" HotSwap, M,2, Intel SW Raid 0/1/5/10, DVD-RW, HDAudio, 2xGbE, iKVM, 2x800W Gold HotSwap)",
-         "shortname": "TS700-E8-RS8 V2",
-         "relevant": "TS700",
-         "subcategory": "Башенные/универсальные платформы/графические рабочие станции",
-         "price": 1320,
-         "availability": 30,
-         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/TS700-E8-RS8-V2/"
+         "name": "RS500-E8-PS4 V2 (1U, 2xLGA2011, 16xDDR4 RDIMM, 4x3,5\" HotSwap, Intel SW Raid 0/1/5/10, DVD-RW, 2xGbE, iKVM, 600 Gold)",
+         "shortname": "RS500-E8-PS4 V2",
+         "relevant": "RS500P",
+         "subcategory": "Стоечные (19\") двухпроцессорные платформы",
+         "price": 850,
+         "availability": "order",
+         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/RS500E8PS4-V2/overview/"
       },
       {
-         "name": "TS500-E8-PS4 V2 (Tower/5U, 2xLGA2011, 8xDDR4 RDIMM, 4x3,5\" HotSwap (up to 8), Intel SW Raid 0/1/5/10, DVD-RW, 2xGbE, iKVM, 500W Bronze)",
-         "shortname": "TS500-E8-PS4 V2",
-         "relevant": "TS500",
-         "subcategory": "Башенные/универсальные платформы/графические рабочие станции",
-         "price": 780,
-         "availability": 30,
-         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/TS500-E8-PS4-V2/"
+         "name": "RS500-E8-RS8 V2 (1U, 2xLGA2011, 16xDDR4 RDIMM, 8x2,5\" HotSwap, Intel SW Raid 0/1/5/10, DVD-RW, 2xGbE, iKVM, 2x770W Platinum HotSwap)",
+         "shortname": "RS500-E8-RS8 V2",
+         "relevant": "RS5002",
+         "subcategory": "Стоечные (19\") двухпроцессорные платформы",
+         "price": 1090,
+         "availability": "7",
+         "link": ""
       },
       {
-         "name": "TS300-E9-PS4 (Tower/5U, 1xLGA1151, 4xDDR4 ECC, 4x3,5\" HotSwap (up to 8), Intel SW Raid 0/1/5/10, DVD-RW, VGA, 4xGbE, 500W Bronze)",
-         "shortname": "TS300-E9-PS4",
-         "relevant": "TS300",
-         "subcategory": "Башенные/универсальные платформы/графические рабочие станции",
-         "price": 600,
-         "availability": 7,
-         "link": "https://www.asus.com/us/Commercial-Servers-Workstations/TS300-E9-PS4/"
+         "name": "RS520-E8-RS8 V2 (2U, 16xDDR4 RDIMM, 8x3,5\" HotSwap, Intel SW Raid 0/1/5/10, DVD-RW, 2xGbE, iKVM, 2x770W Gold HotSwap)",
+         "shortname": "RS520-E8-RS8 V2",
+         "relevant": "RS520",
+         "subcategory": "Стоечные (19\") двухпроцессорные платформы",
+         "price": 1330,
+         "availability": "7",
+         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/RS520E8RS8-V2/"
       },
       {
-         "name": "TS100-E9-PI4 (Tower, 1xLGA1151, 4xDDR4 ECC, 4x3,5\"+1x2,5\"SATA, Intel SW Raid 0/1/5/10, DVD-RW, VGA, 2xGbE, 300W Bronze)",
+         "name": "RS540-E8-RS36-ECP (4U, 2xLGA2011, 16xDDR4 RDIMM, 36x3,5\"+2x2,5\" HotSwap, PIKE 3108/240PD/2Gb, 2xGbE, iKVM, 2x800W Platinum HotSwap)",
+         "shortname": "RS540-E8-RS36-ECP",
+         "relevant": "RS540",
+         "subcategory": "Стоечные (19\") двухпроцессорные платформы",
+         "price": 2840,
+         "availability": "7",
+         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/RS540-E8-RS36-ECP/"
+      },
+      {
+         "name": "TS100-E9-PI4 (Tower, 1xLGA1151, 4xDDR4 ECC, 3x3,5\"+1x2,5\"SATA, Intel SW Raid 0/1/5/10, DVD-RW, VGA, 2xGbE, 300W Bronze, Support Xeon E3, i3, Pentium, Celeron)",
          "shortname": "TS100-E9-PI4",
          "relevant": "TS100",
          "subcategory": "Башенные/универсальные платформы/графические рабочие станции",
-         "price": 450,
-         "availability": 7,
-         "link": "https://www.asus.com/us/Commercial-Servers-Workstations/TS100-E9-PI4/"
+         "price": 454,
+         "availability": "30",
+         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/TS100-E9-PI4/"
       },
       {
-         "name": "ESC700 G3 (Tower, 1xLGA2011, X99 WS, 8xDDR4, 4x3,5\"+1x2,5\"SATA, M,2, Intel SW Raid 0/1/5/10, DVD-RW, CR, HDAudio, 2xGbE, 700W Gold)",
-         "shortname": "ESC700 G3",
-         "relevant": "ESC700",
-         "subcategory": "Башенные/универсальные платформы/графические рабочие станции",
-         "price": 590,
-         "availability": 7,
-         "link": "https://www.asus.com/Commercial-Servers-Workstations/ESC700-G3/"
-      },
-      {
-         "name": "ESC500 G4 (Tower, 1xLGA1151, C236, 4xDDR4, 4x3,5\"+1x2,5\"SATA, Intel SW Raid 0/1/5/10, DVD-RW, CR, 2xGbE, 500W Bronze)",
-         "shortname": "ESC500 G4",
-         "relevant": "ESC500",
+         "name": "TS100-E10-PI4 (Tower, 1xLGA1151, 4xDDR4 ECC, 3x3,5\"+1x2,5\"SATA, 2xM.2, Intel SW Raid 0/1/5/10, DVD-RW, VGA, 2xGbE, 300W Bronze, Support Xeon E-21xx, i3, Pentium, Celeron)",
+         "shortname": "TS100-E10-PI4",
+         "relevant": "TS100e10",
          "subcategory": "Башенные/универсальные платформы/графические рабочие станции",
          "price": 480,
-         "availability": 7,
-         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/ESC500-G4/"
+         "availability": "30",
+         "link": "https://www.asus.com/Commercial-Servers-Workstations/TS100-E10-PI4/"
+      },
+      {
+         "name": "TS300-E9-PS4 (Tower, 1xLGA1151, 4xDDR4 ECC, 4x3,5\" HotSwap (up to 8), Intel SW Raid 0/1/5/10, DVD-RW, VGA, 4xGbE, 500W Bronze, Support Xeon E3, i3, Pentium, Celeron)",
+         "shortname": "TS300-E9-PS4",
+         "relevant": "TS300",
+         "subcategory": "Башенные/универсальные платформы/графические рабочие станции",
+         "price": 571,
+         "availability": "30",
+         "link": "https://www.asus.com/Commercial-Servers-Workstations/TS300-E9-PS4/"
+      },
+      {
+         "name": "TS300-E10-PS4 (Tower, 1xLGA1151, 4xDDR4 ECC, 4x3,5/2,5\" HotSwap (up to 8), Intel SW Raid 0/1/5/10, DVD-RW, VGA, 4xGbE, 500W Gold, Support Xeon E-21xx, i3, Pentium, Celeron)",
+         "shortname": "TS300-E10-PS4",
+         "relevant": "TS300e10",
+         "subcategory": "Башенные/универсальные платформы/графические рабочие станции",
+         "price": 630,
+         "availability": "30",
+         "link": "https://www.asus.com/Commercial-Servers-Workstations/TS300-E10-PS4/"
+      },
+      {
+         "name": "TS500-E8-PS4 V2 (Tower/5U, 2xLGA2011, 8xDDR4 RDIMM, 4x3,5\" HotSwap (up to 8 optional), Intel SW Raid 0/1/5/10, DVD-RW, 2xGbE, iKVM, 500W Bronze) уточняйте доступность",
+         "shortname": "TS500-E8-PS4 V2",
+         "relevant": "TS500",
+         "subcategory": "Башенные/универсальные платформы/графические рабочие станции",
+         "price": 860,
+         "availability": "7",
+         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/TS500-E8-PS4-V2/"
+      },
+      {
+         "name": "RS500-E9-PS4 (1U, 2xLGA3647, 16xDDR4 RDIMM, 4x3,5\" HotSwap, Intel SW Raid 0/1/5/10, DVD-RW, 2xGbE, iKVM, 600W Platinum)",
+         "shortname": "RS520-E9-RS12-E",
+         "relevant": "RS500E9",
+         "subcategory": "Стоечные (19\") 2-процессорные платформы  Intel Xeon Scalable",
+         "price": 990,
+         "availability": "order",
+         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/RS500-E9-PS4/specifications/"
+      },
+      {
+         "name": "RS500-E9-RS4 (1U, 2xLGA3647, 16xDDR4 RDIMM, 4x3,5\" HotSwap, Intel SW Raid 0/1/5/10, DVD-RW, 2xGbE, iKVM, 2x770W Platinum HotSwap)",
+         "shortname": "RS520-E9-RS12-E",
+         "relevant": "RS500E9",
+         "subcategory": "Стоечные (19\") 2-процессорные платформы  Intel Xeon Scalable",
+         "price": 1260,
+         "availability": "30",
+         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/RS500-E9-RS4/"
+      },
+      {
+         "name": "RS520-E9-RS8 (2U, 2xLGA3647, 16xDDR4 RDIMM, 8x3,5\" (4xNVMe)+2x2,5\" HotSwap, Intel SW Raid 0/1/5/10, 2xM.2, DVD-RW, 2xGbE, iKVM, 2x800W Platinum HotSwap)",
+         "shortname": "RS520-E9-RS8",
+         "relevant": "RS520E9",
+         "subcategory": "Стоечные (19\") 2-процессорные платформы  Intel Xeon Scalable и поддержкой NVMe",
+         "price": 1650,
+         "availability": "7",
+         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/RS520-E9-RS8/"
+      },
+      {
+         "name": "RS520-E9-RS12-E (2U, 2xLGA3647, 16xDDR4 RDIMM, 12x3,5\" (4xNVMe)+2x2,5\" HotSwap, Intel SW Raid 0/1/5/10, 2xGbE, iKVM, 2x800W Platinum HotSwap)",
+         "shortname": "RS520-E9-RS12-E",
+         "relevant": "RS520E9",
+         "subcategory": "Стоечные (19\") 2-процессорные платформы  Intel Xeon Scalable и поддержкой NVMe",
+         "price": 1690,
+         "availability": "30",
+         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/RS520-E9-RS12-E/"
+      },
+      {
+         "name": "RS540-E9-RS36-E (4U, 2xLGA3647, 16xDDR4 RDIMM, 36x3,5\" +2x2,5\" HotSwap, PIKE 3108/240PD/2Gb, 2xGbE, iKVM, 2x800W Platinum HotSwap)",
+         "shortname": "RS540-E9-RS36-E",
+         "relevant": "RS540E9",
+         "subcategory": "Стоечные (19\") 2-процессорные платформы  Intel Xeon Scalable",
+         "price": 2565,
+         "availability": "30",
+         "link": "https://www.asus.com/Commercial-Servers-Workstations/RS540-E9-RS36-E/"
+      },
+      {
+         "name": "RS700-E9-RS4 (1U, 2xLGA3647, 24xDDR4 RDIMM, 4x3,5\" HotSwap, Intel SW Raid 0/1/5/10, 2xM.2, DVD-RW, 2xGbE, iKVM, 2x800W Platinum HotSwap)",
+         "shortname": "RS700-E9-RS4",
+         "relevant": "RS700E9",
+         "subcategory": "Стоечные (19\") 2-процессорные платформы  Intel Xeon Scalable",
+         "price": 1590,
+         "availability": "7",
+         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/RS700-E9-RS4/"
+      },
+      {
+         "name": "RS700-E9-RS12 (1U, 2xLGA3647, 24xDDR4 RDIMM, 12x2,5\" (8x NVMe) HotSwap, Intel SW Raid 0/1/5/10, 2xM.2, 2xGbE, iKVM, 2x800W Platinum HotSwap)",
+         "shortname": "RS700-E9-RS12",
+         "relevant": "RS700E912",
+         "subcategory": "Стоечные (19\") 2-процессорные платформы  Intel Xeon Scalable и поддержкой NVMe",
+         "price": 1735,
+         "availability": "30",
+         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/RS700-E9-RS12/"
+      },
+      {
+         "name": "RS720-E9-RS24-E  (2U, 2xLGA3647, 24xDDR4 RDIMM, 24x2,5\" HotSwap, w/PIKEII 3108, 2xM.2, 2xGbE, iKVM, 2x1200W Platinum HotSwap)",
+         "shortname": "RS720-E9-RS24",
+         "relevant": "RS720E924",
+         "subcategory": "Стоечные (19\") 2-процессорные платформы  Intel Xeon Scalable и поддержкой NVMe",
+         "price": 2620,
+         "availability": "30",
+         "link": "https://www.asus.com/Commercial-Servers-Workstations/RS720-E9-RS24-E/"
+      },
+      {
+         "name": "RS720-E9-RS12-E  (2U, 2xLGA3647, 24xDDR4 RDIMM, 12 x 3.5\"/2.5\" HotSwap (4xNVMe), Intel SW Raid 0/1/5/10, 2xM.2, 2xGbE, iKVM, 2x800W Platinum HotSwap)",
+         "shortname": "RS720-E9-RS12",
+         "relevant": "RS720E9",
+         "subcategory": "Стоечные (19\") 2-процессорные платформы  Intel Xeon Scalable и поддержкой NVMe",
+         "price": 2050,
+         "availability": "order",
+         "link": "https://www.asus.com/Commercial-Servers-Workstations/RS720-E9-RS12-E/"
       }
    ],
    "cpu": [
@@ -178,8 +250,8 @@
          "shortname": "Xeon E3-1270v6 ",
          "relevant": "TS100/TS300/RS100/RS200/RS300/ESC500",
          "subcategory": "Процессоры E3 для односокетных платформ (TS100/TS300, RS100/RS200/RS300, ESC500)",
-         "price": 360,
-         "availability": 14,
+         "price": 390,
+         "availability": "7",
          "link": ""
       },
       {
@@ -187,8 +259,8 @@
          "shortname": "Xeon E3-1240v6 ",
          "relevant": "TS100/TS300/RS100/RS200/RS300/ESC500",
          "subcategory": "Процессоры E3 для односокетных платформ (TS100/TS300, RS100/RS200/RS300, ESC500)",
-         "price": 290,
-         "availability": 14,
+         "price": 340,
+         "availability": "21",
          "link": ""
       },
       {
@@ -196,464 +268,347 @@
          "shortname": "Xeon E3-1230v6 ",
          "relevant": "TS100/TS300/RS100/RS200/RS300/ESC500",
          "subcategory": "Процессоры E3 для односокетных платформ (TS100/TS300, RS100/RS200/RS300, ESC500)",
-         "price": 260,
-         "availability": 7,
-         "link": ""
-      },
-      {
-         "name": "Xeon E3-1220v6 (4/4, 3.00, 8M)",
-         "shortname": "Xeon E3-1220v6 ",
-         "relevant": "TS100/TS300/RS100/RS200/RS300/ESC500",
-         "subcategory": "Процессоры E3 для односокетных платформ (TS100/TS300, RS100/RS200/RS300, ESC500)",
-         "price": 210,
-         "availability": 7,
-         "link": ""
-      },
-      {
-         "name": "Xeon E3-1245v6 (4/8, 3.70, 8M, Intel HD Graphics P630)",
-         "shortname": "Xeon E3-1245v6",
-         "relevant": "ESC500",
-         "subcategory": "Процессоры E3 с видеоядром (для графической станции ESC500 без использования дискретной видеокарты)",
-         "price": 310,
-         "availability": 7,
-         "link": ""
-      },
-      {
-         "name": "Xeon E3-1225v6 (4/4, 3.30, 8M, Intel HD Graphics P630)",
-         "shortname": "Xeon E3-1225v6",
-         "relevant": "ESC500",
-         "subcategory": "Процессоры E3 с видеоядром (для графической станции ESC500 без использования дискретной видеокарты)",
-         "price": 240,
-         "availability": 7,
-         "link": ""
-      },
-      {
-         "name": "Xeon E5-1650v4 (6/12, 3.60, 15M)",
-         "shortname": "Xeon E5-1650v4",
-         "relevant": "ESC700",
-         "subcategory": "Процессоры E5 для однопроцессорной графической станции ESC700",
-         "price": 670,
-         "availability": 14,
-         "link": ""
-      },
-      {
-         "name": "Xeon E5-1620v4 (4/8, 3.50, 10M)",
-         "shortname": "Xeon E5-1620v4",
-         "relevant": "ESC700",
-         "subcategory": "Процессоры E5 для однопроцессорной графической станции ESC700",
-         "price": 310,
-         "availability": 7,
-         "link": ""
-      },
-      {
-         "name": "Xeon E5-2690v4 (14/28, 2.60, 35M)",
-         "shortname": "Xeon E5-2690v4 ",
-         "relevant": "RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700",
-         "subcategory": "Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700",
-         "price": 2220,
-         "availability": 14,
-         "link": ""
-      },
-      {
-         "name": "Xeon E5-2680v4 (14/28, 2.40, 35M)",
-         "shortname": "Xeon E5-2680v4 ",
-         "relevant": "RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700",
-         "subcategory": "Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700",
-         "price": 1710,
-         "availability": 14,
-         "link": ""
-      },
-      {
-         "name": "Xeon E5-2667v4 (8/16, 3.20, 25M)",
-         "shortname": "Xeon E5-2667v4 ",
-         "relevant": "RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700",
-         "subcategory": "Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700",
-         "price": 2310,
-         "availability": 14,
-         "link": ""
-      },
-      {
-         "name": "Xeon E5-2660v4 (14/28, 2.00, 35M)",
-         "shortname": "Xeon E5-2660v4 ",
-         "relevant": "RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700",
-         "subcategory": "Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700",
-         "price": 1460,
-         "availability": 14,
+         "price": 300,
+         "availability": "21",
          "link": ""
       },
       {
          "name": "Xeon E5-2650v4 (12/24, 2.20, 30M)",
          "shortname": "Xeon E5-2650v4 ",
-         "relevant": "RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700",
+         "relevant": "RS400/RS500/RS500P/RS520/RS540/TS500",
          "subcategory": "Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700",
-         "price": 1110,
-         "availability": 14,
+         "price": 1190,
+         "availability": "21",
          "link": ""
       },
       {
          "name": "Xeon E5-2643v4 (6/12, 3.40, 20M)",
          "shortname": "Xeon E5-2643v4 ",
-         "relevant": "RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700",
+         "relevant": "RS400/RS500/RS500P/RS520/RS540/TS500",
          "subcategory": "Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700",
-         "price": 1710,
-         "availability": 14,
+         "price": 1720,
+         "availability": "21",
          "link": ""
       },
       {
          "name": "Xeon E5-2640v4 (10/20, 2.40, 25M)",
          "shortname": "Xeon E5-2640v4 ",
-         "relevant": "RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700",
+         "relevant": "RS400/RS500/RS500P/RS520/RS540/TS500",
          "subcategory": "Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700",
-         "price": 980,
-         "availability": 7,
+         "price": 880,
+         "availability": "21",
          "link": ""
       },
       {
          "name": "Xeon E5-2637v4 (4/8, 3.50, 15M)",
          "shortname": "Xeon E5-2637v4 ",
-         "relevant": "RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700",
+         "relevant": "RS400/RS500/RS500P/RS520/RS540/TS500",
          "subcategory": "Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700",
-         "price": 1130,
-         "availability": 14,
+         "price": 1150,
+         "availability": "21",
          "link": ""
       },
       {
          "name": "Xeon E5-2630v4 (10/20, 2.20, 25M)",
          "shortname": "Xeon E5-2630v4 ",
-         "relevant": "RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700",
+         "relevant": "RS400/RS500/RS500P/RS520/RS540/TS500",
          "subcategory": "Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700",
-         "price": 670,
-         "availability": 14,
+         "price": 650,
+         "availability": "7",
          "link": ""
       },
       {
          "name": "Xeon E5-2623v4 (4/8, 2.60, 10M)",
          "shortname": "Xeon E5-2623v4 ",
-         "relevant": "RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700",
+         "relevant": "RS400/RS500/RS500P/RS520/RS540/TS500",
          "subcategory": "Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700",
          "price": 510,
-         "availability": 14,
+         "availability": "21",
          "link": ""
       },
       {
          "name": "Xeon E5-2620v4 (8/16, 2.10, 20M)",
          "shortname": "Xeon E5-2620v4 ",
-         "relevant": "RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700",
+         "relevant": "RS400/RS500/RS500P/RS520/RS540/TS500",
          "subcategory": "Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700",
-         "price": 430,
-         "availability": 7,
+         "price": 380,
+         "availability": "21",
          "link": ""
       },
       {
-         "name": "Xeon E5-2620v3 (6/12, 2.40, 15M)",
-         "shortname": "Xeon E5-2620v3 ",
-         "relevant": "RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700",
+         "name": "Xeon E5-2609v4 (8/8, 1.70, 15M)",
+         "shortname": "Xeon E5-2609v4",
+         "relevant": "RS400/RS500/RS500P/RS520/RS540/TS500",
          "subcategory": "Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700",
-         "price": 410,
-         "availability": 7,
+         "price": 345,
+         "availability": "21",
          "link": ""
       },
       {
-         "name": "Xeon E5-2609v4 (8/8, 1.70, 20M)",
-         "shortname": "Xeon E5-2609v4 ",
-         "relevant": "RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700",
+         "name": "Xeon E5-2603v4 (6/6, 1.70, 15M)",
+         "shortname": "Xeon E5-2603v4",
+         "relevant": "RS400/RS500/RS500P/RS520/RS540/TS500",
          "subcategory": "Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700",
-         "price": 320,
-         "availability": 7,
+         "price": 235,
+         "availability": "21",
          "link": ""
       },
       {
-         "name": "Xeon E5-2603v3 (6/6, 1.60, 15M)",
-         "shortname": "Xeon E5-2603v3 ",
-         "relevant": "RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700",
-         "subcategory": "Процессоры E5 для серверов серий RS400/RS500/RS520/RS540, TS500/TS700 и графических серверов ESC4000/ESC700",
-         "price": 220,
-         "availability": 7,
+         "name": "Xeon Scalable Gold 5122 (4/8, 3.6-3.7)",
+         "shortname": "Xeon Gold 5122",
+         "relevant": "RS500E9/RS520E9/RS540E9/RS700E9/RS700E912/RS720E9/RS720E924",
+         "subcategory": "Процессоры нового поколения Intel Xeon Scalable",
+         "price": 1370,
+         "availability": "21",
+         "link": ""
+      },
+      {
+         "name": "Xeon Scalable Gold 5120 (14/28, 2.2-3.2)",
+         "shortname": "Xeon Gold 5120",
+         "relevant": "RS500E9/RS520E9/RS540E9/RS700E9/RS700E912/RS720E9/RS720E924",
+         "subcategory": "Процессоры нового поколения Intel Xeon Scalable",
+         "price": 1560,
+         "availability": "21",
+         "link": ""
+      },
+      {
+         "name": "Xeon Scalable Gold 5118 (12/24, 2.3-3.2)",
+         "shortname": "Xeon Gold 5118",
+         "relevant": "RS500E9/RS520E9/RS540E9/RS700E9/RS700E912/RS720E9/RS720E924",
+         "subcategory": "Процессоры нового поколения Intel Xeon Scalable",
+         "price": 1250,
+         "availability": "21",
+         "link": ""
+      },
+      {
+         "name": "Xeon Scalable Silver 4116 (12/24, 2.1-3.0)",
+         "shortname": "Xeon Silver 4116",
+         "relevant": "RS500E9/RS520E9/RS540E9/RS700E9/RS700E912/RS720E9/RS720E924",
+         "subcategory": "Процессоры нового поколения Intel Xeon Scalable",
+         "price": 1080,
+         "availability": "21",
+         "link": ""
+      },
+      {
+         "name": "Xeon Scalable Silver 4114 (10/20, 2.2-3.0)",
+         "shortname": "Xeon Silver 4114",
+         "relevant": "RS500E9/RS520E9/RS540E9/RS700E9/RS700E912/RS720E9/RS720E924",
+         "subcategory": "Процессоры нового поколения Intel Xeon Scalable",
+         "price": 730,
+         "availability": "7",
+         "link": ""
+      },
+      {
+         "name": "Xeon Scalable Silver 4112 (4/8, 2.6-3.0)",
+         "shortname": "Xeon Silver 4112",
+         "relevant": "RS500E9/RS520E9/RS540E9/RS700E9/RS700E912/RS720E9/RS720E924",
+         "subcategory": "Процессоры нового поколения Intel Xeon Scalable",
+         "price": 540,
+         "availability": "21",
+         "link": ""
+      },
+      {
+         "name": "Xeon Scalable Silver 4110 (8/16, 2.1-3.0)",
+         "shortname": "Xeon Silver 4110",
+         "relevant": "RS500E9/RS520E9/RS540E9/RS700E9/RS700E912/RS720E9/RS720E924",
+         "subcategory": "Процессоры нового поколения Intel Xeon Scalable",
+         "price": 480,
+         "availability": "21",
+         "link": ""
+      },
+      {
+         "name": "Xeon Scalable Silver 4108 (8/16, 1.8-3.0)",
+         "shortname": "Xeon Silver 4108",
+         "relevant": "RS500E9/RS520E9/RS540E9/RS700E9/RS700E912/RS720E9/RS720E924",
+         "subcategory": "Процессоры нового поколения Intel Xeon Scalable",
+         "price": 480,
+         "availability": "21",
+         "link": ""
+      },
+      {
+         "name": "Xeon Scalable Bronze 3106 (8/8, 1.7)",
+         "shortname": "Xeon Bronze 3106",
+         "relevant": "RS500E9/RS520E9/RS540E9/RS700E9/RS700E912/RS720E9/RS720E924",
+         "subcategory": "Процессоры нового поколения Intel Xeon Scalable",
+         "price": 355,
+         "availability": "7",
          "link": ""
       }
    ],
    "ram": [
       {
-         "name": "8Gb DDR4 UDIMM ECC 2133Mhz",
+         "name": "8Gb DDR4 UDIMM ECC 2400/2666Mhz",
          "shortname": "8Gb DDR4 ECC ",
-         "relevant": "TS100/TS300/RS100/RS200/RS300/ESC500",
+         "relevant": "TS100/TS300/RS100/RS200/RS300",
          "subcategory": "Память для серверов с процессорами E3 (TS100/TS300, RS100/RS200/RS300, ESC500)",
-         "price": 80,
-         "availability": 7,
+         "price": 51,
+         "availability": "7",
          "link": ""
       },
       {
-         "name": "8Gb DDR4 UDIMM ECC 2400Mhz",
-         "shortname": "8Gb DDR4 ECC 2400Mhz ",
-         "relevant": "TS100/TS300/RS100/RS200/RS300/ESC500",
+         "name": "16Gb DDR4 UDIMM ECC 2400/2666Mhz",
+         "shortname": "16Gb DDR4 ECC",
+         "relevant": "TS100/TS300/RS100/RS200/RS300",
          "subcategory": "Память для серверов с процессорами E3 (TS100/TS300, RS100/RS200/RS300, ESC500)",
-         "price": 90,
-         "availability": 30,
-         "link": ""
-      },
-      {
-         "name": "16Gb DDR4 UDIMM ECC 2400Mhz",
-         "shortname": "16Gb DDR4 ECC 2400Mhz ",
-         "relevant": "TS100/TS300/RS100/RS200/RS300/ESC500",
-         "subcategory": "Память для серверов с процессорами E3 (TS100/TS300, RS100/RS200/RS300, ESC500)",
-         "price": 160,
-         "availability": 7,
-         "link": ""
-      },
-      {
-         "name": "8Gb DDR4 RDIMM 2133Mhz",
-         "shortname": "8Gb DDR4 RDIMM ",
-         "relevant": "RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700",
-         "subcategory": "Память для серверов с процессорами E5 (RS400/RS500/RS520/RS540, TS500/TS700, ESC4000/ESC700)",
-         "price": 90,
-         "availability": 7,
+         "price": 100,
+         "availability": "7",
          "link": ""
       },
       {
          "name": "8Gb DDR4 RDIMM 2400Mhz",
-         "shortname": "8Gb DDR4 RDIMM 2400Mhz ",
-         "relevant": "RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700",
-         "subcategory": "Память для серверов с процессорами E5 (RS400/RS500/RS520/RS540, TS500/TS700, ESC4000/ESC700)",
-         "price": 110,
-         "availability": 30,
-         "link": ""
-      },
-      {
-         "name": "16Gb DDR4 RDIMM 2133Mhz",
-         "shortname": "16Gb DDR4 RDIMM ",
-         "relevant": "RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700",
-         "subcategory": "Память для серверов с процессорами E5 (RS400/RS500/RS520/RS540, TS500/TS700, ESC4000/ESC700)",
-         "price": 160,
-         "availability": 7,
+         "shortname": "8Gb DDR4 RDIMM ",
+         "relevant": "RS400/RS500/RS500P/RS520/RS540/TS500/RS500E9/RS520E9/RS540E9/RS700E9/RS700E912/RS720E9/RS720E924",
+         "subcategory": "Память для серверов с процессорами E5-2600 и Xeon Scalable",
+         "price": 100,
+         "availability": "21",
          "link": ""
       },
       {
          "name": "16Gb DDR4 RDIMM 2400Mhz",
-         "shortname": "16Gb DDR4 RDIMM 2400Mhz ",
-         "relevant": "RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700",
-         "subcategory": "Память для серверов с процессорами E5 (RS400/RS500/RS520/RS540, TS500/TS700, ESC4000/ESC700)",
-         "price": 170,
-         "availability": 7,
+         "shortname": "16Gb DDR4 RDIMM",
+         "relevant": "RS400/RS500/RS500P/RS520/RS540/TS500/RS500E9/RS520E9/RS540E9/RS700E9/RS700E912/RS720E9/RS720E924",
+         "subcategory": "Память для серверов с процессорами E5-2600 и Xeon Scalable",
+         "price": 185,
+         "availability": "7",
          "link": ""
       },
       {
-         "name": "32Gb DDR4 LRDIMM 2400Mhz",
-         "shortname": "32Gb DDR4 LRDIMM 2400Mhz ",
-         "relevant": "RS400/RS500/RS520/RS540/TS500/TS700/ESC4000/ESC700",
-         "subcategory": "Память для серверов с процессорами E5 (RS400/RS500/RS520/RS540, TS500/TS700, ESC4000/ESC700)",
-         "price": 390,
-         "availability": 30,
+         "name": "32Gb DDR4 RDIMM 2400Mhz",
+         "shortname": "32Gb DDR4 RDIMM",
+         "relevant": "RS400/RS500/RS500P/RS520/RS540/TS500/RS500E9/RS520E9/RS540E9/RS700E9/RS700E912/RS720E9/RS720E924",
+         "subcategory": "Память для серверов с процессорами E5-2600 и Xeon Scalable",
+         "price": 340,
+         "availability": "7",
          "link": ""
       }
    ],
    "ssd": [
       {
-         "name": "Intel S3710 800Gb SSD /DWPD=17!",
-         "shortname": "Intel S3710 800Gb SSD ",
-         "relevant": "forall",
+         "name": "Intel 3DXPoint Optane 900P 280Gb DWPD=10 550k IOPS NVMe PCIe4x 2,5\" U.2",
+         "shortname": "Intel 900p 280Gb",
+         "relevant": "RS520E9/RS700E92",
          "subcategory": "Серверные SSD диски",
-         "price": 1360,
-         "availability": 14,
-         "link": ""
-      },
-      {
-         "name": "Intel S3710 400Gb SSD /DWPD=17!",
-         "shortname": "Intel S3710 400Gb SSD ",
-         "relevant": "forall",
-         "subcategory": "Серверные SSD диски",
-         "price": 540,
-         "availability": 7,
-         "link": ""
-      },
-      {
-         "name": "Intel S3710 200Gb SSD /DWPD=17!",
-         "shortname": "Intel S3710 200Gb SSD ",
-         "relevant": "forall",
-         "subcategory": "Серверные SSD диски",
-         "price": 350,
-         "availability": 14,
-         "link": ""
+         "price": 429,
+         "availability": "7",
+         "link": "https://www.intel.com/content/www/us/en/products/memory-storage/solid-state-drives/gaming-enthusiast-ssds/optane-900p-series/900p-280gb-2-5-inch-20nm.html"
       },
       {
          "name": "Intel S3610 800Gb SSD /DWPD=3",
          "shortname": "Intel S3610 800Gb SSD ",
          "relevant": "forall",
          "subcategory": "Серверные SSD диски",
-         "price": 640,
-         "availability": 7,
+         "price": 666,
+         "availability": "7",
          "link": ""
       },
       {
-         "name": "Intel S3610 480Gb SSD /DWPD=3",
-         "shortname": "Intel S3610 480Gb SSD ",
-         "relevant": "forall",
-         "subcategory": "Серверные SSD диски",
-         "price": 530,
-         "availability": 14,
-         "link": ""
-      },
-      {
-         "name": "Intel S3610 400Gb SSD /DWPD=3",
-         "shortname": "Intel S3610 400Gb SSD ",
-         "relevant": "forall",
-         "subcategory": "Серверные SSD диски",
-         "price": 440,
-         "availability": 14,
-         "link": ""
-      },
-      {
-         "name": "Intel S3610 200Gb SSD /DWPD=3",
-         "shortname": "Intel S3610 200Gb SSD ",
-         "relevant": "forall",
-         "subcategory": "Серверные SSD диски",
-         "price": 230,
-         "availability": 14,
-         "link": ""
-      },
-      {
-         "name": "Intel S3520 960Gb SSD /DWPD=1",
-         "shortname": "Intel S3520 960Gb SSD ",
-         "relevant": "forall",
-         "subcategory": "Серверные SSD диски",
-         "price": 560,
-         "availability": 14,
-         "link": ""
-      },
-      {
-         "name": "Intel S3520 800Gb SSD /DWPD=1",
-         "shortname": "Intel S3520 800Gb SSD ",
-         "relevant": "forall",
-         "subcategory": "Серверные SSD диски",
-         "price": 470,
-         "availability": 7,
-         "link": ""
-      },
-      {
-         "name": "Intel S3520 480Gb SSD /DWPD=1",
-         "shortname": "Intel S3520 480Gb SSD ",
+         "name": "Intel S4610 480Gb SSD /DWPD=3",
+         "shortname": "Intel S4610 480Gb SSD ",
          "relevant": "forall",
          "subcategory": "Серверные SSD диски",
          "price": 280,
-         "availability": 7,
+         "availability": "21",
          "link": ""
       },
       {
-         "name": "Intel S3520 240Gb SSD /DWPD=1",
-         "shortname": "Intel S3520 240Gb SSD ",
+         "name": "Intel S4610 240Gb SSD /DWPD=3",
+         "shortname": "Intel S4610 240Gb SSD ",
          "relevant": "forall",
          "subcategory": "Серверные SSD диски",
-         "price": 190,
-         "availability": 14,
+         "price": 180,
+         "availability": "7",
          "link": ""
       },
       {
-         "name": "Intel S3520 150Gb SSD /DWPD=1",
-         "shortname": "Intel S3520 150Gb SSD ",
+         "name": "Intel S4510 480Gb SSD /DWPD=1",
+         "shortname": "Intel S4510 480Gb SSD ",
          "relevant": "forall",
          "subcategory": "Серверные SSD диски",
-         "price": 110,
-         "availability": 7,
+         "price": 230,
+         "availability": "21",
+         "link": ""
+      },
+      {
+         "name": "Intel S4510 240Gb SSD /DWPD=1",
+         "shortname": "Intel S4510 240Gb SSD ",
+         "relevant": "forall",
+         "subcategory": "Серверные SSD диски",
+         "price": 180,
+         "availability": "21",
+         "link": ""
+      },
+      {
+         "name": "Intel S3100 256Gb M.2 SSD PCI-E/DWPD=0,5",
+         "shortname": "Intel 256Gb SSD ",
+         "relevant": "forall",
+         "subcategory": "Серверные SSD диски",
+         "price": 141,
+         "availability": "7",
+         "link": ""
+      },
+      {
+         "name": "Intel S3100 128Gb M.2 SSD PCI-E/DWPD=0,5",
+         "shortname": "Intel 128Gb SSD ",
+         "relevant": "forall",
+         "subcategory": "Серверные SSD диски",
+         "price": 100,
+         "availability": "7",
          "link": ""
       }
    ],
    "hdd": [
       {
+         "name": "HDD 3,5\" 10Tb 7200rpm, 256MB, Enterprise",
+         "shortname": "10Tb SATA 7.2k Ent HDD ",
+         "relevant": "RS300/RS100/RS500/RS540/RS520/RS500P/TS500/TS300/TS100/RS500E9/RS520E9/RS540E9/RS700E9/RS720E9",
+         "subcategory": "Серверные HDD диски SATA LFF (3,5\")",
+         "price": 295,
+         "availability": "21",
+         "link": ""
+      },
+      {
          "name": "HDD 3,5\" 8Tb 7200rpm, 256MB, Enterprise",
          "shortname": "8Tb SATA 7.2k Ent HDD ",
-         "relevant": "RS300/RS100/RS540/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500",
+         "relevant": "RS300/RS100/RS500/RS540/RS520/RS500P/TS500/TS300/TS100/RS500E9/RS520E9/RS540E9/RS700E9/RS720E9",
          "subcategory": "Серверные HDD диски SATA LFF (3,5\")",
-         "price": 350,
-         "availability": 7,
+         "price": 260,
+         "availability": "21",
          "link": ""
       },
       {
          "name": "HDD 3,5\" 6Tb 7200rpm, 128MB, Enterprise",
          "shortname": "6Tb SATA 7.2k Ent HDD ",
-         "relevant": "RS300/RS100/RS540/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500",
+         "relevant": "RS300/RS100/RS500/RS540/RS520/RS500P/TS500/TS300/TS100/RS500E9/RS520E9/RS540E9/RS700E9/RS720E9",
          "subcategory": "Серверные HDD диски SATA LFF (3,5\")",
-         "price": 220,
-         "availability": 14,
+         "price": 195,
+         "availability": "21",
          "link": ""
       },
       {
          "name": "HDD 3,5\" 4Tb 7200rpm, 128MB, Enterprise",
          "shortname": "4Tb SATA 7.2k Ent HDD ",
-         "relevant": "RS300/RS100/RS540/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500",
+         "relevant": "RS300/RS100/RS500/RS540/RS520/RS500P/TS500/TS300/TS100/RS500E9/RS520E9/RS540E9/RS700E9/RS720E9",
          "subcategory": "Серверные HDD диски SATA LFF (3,5\")",
-         "price": 170,
-         "availability": 7,
+         "price": 180,
+         "availability": "14",
          "link": ""
       },
       {
          "name": "HDD 3,5\" 2Tb 7200rpm, 128MB, Enterprise",
          "shortname": "2Tb SATA 7.2k Ent HDD ",
-         "relevant": "RS300/RS100/RS540/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500",
+         "relevant": "RS300/RS100/RS500/RS540/RS520/RS500P/TS500/TS300/TS100/RS500E9/RS520E9/RS540E9/RS700E9/RS720E9",
          "subcategory": "Серверные HDD диски SATA LFF (3,5\")",
-         "price": 120,
-         "availability": 7,
+         "price": 115,
+         "availability": "14",
          "link": ""
       },
       {
          "name": "HDD 3,5\" 1Tb 7200rpm, 128MB, Enterprise",
          "shortname": "1Tb SATA 7.2k Ent HDD ",
-         "relevant": "RS300/RS100/RS540/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500",
+         "relevant": "RS300/RS100/RS500/RS540/RS520/RS500P/TS500/TS300/TS100/RS500E9/RS520E9/RS540E9/RS700E9/RS720E9",
          "subcategory": "Серверные HDD диски SATA LFF (3,5\")",
          "price": 90,
-         "availability": 7,
-         "link": ""
-      },
-      {
-         "name": "HDD 2,5\" 2Tb 7200rpm, 128MB, Enterprise",
-         "shortname": "2Tb SATA 7.2k Ent HDD ",
-         "relevant": "forall",
-         "subcategory": "Серверные HDD диски SATA SFF (2,5\")",
-         "price": 340,
-         "availability": 14,
-         "link": ""
-      },
-      {
-         "name": "HDD 2,5\" 1Tb 7200rpm, 128MB, Enterprise",
-         "shortname": "1Tb SATA 7.2k Ent HDD ",
-         "relevant": "forall",
-         "subcategory": "Серверные HDD диски SATA SFF (2,5\")",
-         "price": 190,
-         "availability": 14,
-         "link": ""
-      },
-      {
-         "name": "HDD 300Gb SAS 12Gbs, 10k, 128MB",
-         "shortname": "300Gb SAS 12Gbs 10k Ent HDD",
-         "relevant": "forall",
-         "subcategory": "Серверные HDD диски SAS 2,5\" (для работы требуется SAS-контроллер)",
-         "price": 130,
-         "availability": 14,
-         "link": ""
-      },
-      {
-         "name": "HDD 300Gb SAS 12Gbs, 15k, 128MB",
-         "shortname": "300Gb SAS 12Gbs 15k Ent HDD",
-         "relevant": "forall",
-         "subcategory": "Серверные HDD диски SAS 2,5\" (для работы требуется SAS-контроллер)",
-         "price": 200,
-         "availability": 14,
-         "link": ""
-      },
-      {
-         "name": "HDD 600Gb SAS 12Gbs, 10k, 128MB",
-         "shortname": "600Gb SAS 12Gbs 10k Ent HDD",
-         "relevant": "forall",
-         "subcategory": "Серверные HDD диски SAS 2,5\" (для работы требуется SAS-контроллер)",
-         "price": 210,
-         "availability": 7,
-         "link": ""
-      },
-      {
-         "name": "HDD 600Gb SAS 12Gbs, 15k, 128MB",
-         "shortname": "600Gb SAS 12Gbs 15k Ent HDD",
-         "relevant": "forall",
-         "subcategory": "Серверные HDD диски SAS 2,5\" (для работы требуется SAS-контроллер)",
-         "price": 320,
-         "availability": 14,
+         "availability": "14",
          "link": ""
       },
       {
@@ -661,119 +616,137 @@
          "shortname": "900Gb SAS 12Gbs 10k Ent HDD",
          "relevant": "forall",
          "subcategory": "Серверные HDD диски SAS 2,5\" (для работы требуется SAS-контроллер)",
-         "price": 270,
-         "availability": 14,
+         "price": 200,
+         "availability": "30",
          "link": ""
       },
       {
-         "name": "HDD 1Tb SAS 12Gbs, 7200rpm, 128MB",
-         "shortname": "1Tb SAS 12Gbs 7.2k Ent HDD ",
-         "relevant": "RS300/RS100/RS540/RS520/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500",
-         "subcategory": "Серверные HDD диски SAS 3,5\" (для работы требуется SAS-контроллер)",
-         "price": 100,
-         "availability": 14,
+         "name": "HDD 600Gb SAS 12Gbs, 10k, 128MB",
+         "shortname": "600Gb SAS 12Gbs 10k Ent HDD",
+         "relevant": "forall",
+         "subcategory": "Серверные HDD диски SAS 2,5\" (для работы требуется SAS-контроллер)",
+         "price": 145,
+         "availability": "21",
          "link": ""
       },
       {
-         "name": "HDD 2Tb SAS 12Gbs, 7200rpm, 128MB",
-         "shortname": "2Tb SAS 12Gbs 7.2k Ent HDD ",
-         "relevant": "RS300/RS100/RS540/RS520/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500",
-         "subcategory": "Серверные HDD диски SAS 3,5\" (для работы требуется SAS-контроллер)",
-         "price": 130,
-         "availability": 7,
+         "name": "HDD 300Gb SAS 12Gbs, 15k, 128MB",
+         "shortname": "300Gb SAS 12Gbs 15k Ent HDD",
+         "relevant": "forall",
+         "subcategory": "Серверные HDD диски SAS 2,5\" (для работы требуется SAS-контроллер)",
+         "price": 185,
+         "availability": "21",
          "link": ""
       },
       {
-         "name": "HDD 4Tb SAS 12Gbs, 7200rpm, 128MB",
-         "shortname": "4Tb SAS 12Gbs 7.2k Ent HDD ",
-         "relevant": "RS300/RS100/RS540/RS520/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500",
+         "name": "HDD 300Gb SAS 12Gbs, 10k, 128MB",
+         "shortname": "300Gb SAS 12Gbs 10k Ent HDD",
+         "relevant": "forall",
+         "subcategory": "Серверные HDD диски SAS 2,5\" (для работы требуется SAS-контроллер)",
+         "price": 110,
+         "availability": "21",
+         "link": ""
+      },
+      {
+         "name": "HDD 12Tb SAS 12Gbs, 7200rpm, 256MB",
+         "shortname": "12Tb SAS 12Gbs 7.2k Ent HDD ",
+         "relevant": "RS300/RS100/RS500/RS540/RS520/RS500P/TS500/TS300/TS100/RS500E9/RS520E9/RS540E9/RS700E9/RS720E9",
          "subcategory": "Серверные HDD диски SAS 3,5\" (для работы требуется SAS-контроллер)",
-         "price": 180,
-         "availability": 7,
+         "price": 355,
+         "availability": "21",
+         "link": ""
+      },
+      {
+         "name": "HDD 10Tb SAS 12Gbs, 7200rpm, 256MB",
+         "shortname": "10Tb SAS 12Gbs 7.2k Ent HDD ",
+         "relevant": "RS300/RS100/RS500/RS540/RS520/RS500P/TS500/TS300/TS100/RS500E9/RS520E9/RS540E9/RS700E9/RS720E9",
+         "subcategory": "Серверные HDD диски SAS 3,5\" (для работы требуется SAS-контроллер)",
+         "price": 300,
+         "availability": "21",
          "link": ""
       },
       {
          "name": "HDD 6Tb SAS 12Gbs, 7200rpm, 128MB",
          "shortname": "6Tb SAS 12Gbs 7.2k Ent HDD ",
-         "relevant": "RS300/RS100/RS540/RS520/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500",
+         "relevant": "RS300/RS100/RS500/RS540/RS520/RS500P/TS500/TS300/TS100/RS500E9/RS520E9/RS540E9/RS700E9/RS720E9",
          "subcategory": "Серверные HDD диски SAS 3,5\" (для работы требуется SAS-контроллер)",
          "price": 250,
-         "availability": 7,
+         "availability": "7",
          "link": ""
       },
       {
-         "name": "HDD 8Tb SAS 12Gbs, 7200rpm, 256MB",
-         "shortname": "8Tb SAS 12Gbs 7.2k Ent HDD ",
-         "relevant": "RS300/RS100/RS540/RS520/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500",
+         "name": "HDD 4Tb SAS 12Gbs, 7200rpm, 128MB",
+         "shortname": "4Tb SAS 12Gbs 7.2k Ent HDD ",
+         "relevant": "RS300/RS100/RS500/RS540/RS520/RS500P/TS500/TS300/TS100/RS500E9/RS520E9/RS540E9/RS700E9/RS720E9",
          "subcategory": "Серверные HDD диски SAS 3,5\" (для работы требуется SAS-контроллер)",
-         "price": 350,
-         "availability": 14,
+         "price": 210,
+         "availability": "7",
          "link": ""
       },
       {
          "name": "8Tb Surveillance HDD, 128MB",
          "shortname": "8Tb Surveillance HDD ",
-         "relevant": "RS300/RS100/RS540/RS520/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500",
+         "relevant": "RS300/RS100/RS500/RS540/RS520/RS500P/TS500/TS300/TS100/RS500E9/RS520E9/RS540E9/RS700E9/RS720E9",
          "subcategory": "Жесткие диски для серверов видеонаблюдения",
-         "price": 260,
-         "availability": 7,
+         "price": 225,
+         "availability": "7",
          "link": ""
       },
       {
          "name": "6Tb Surveillance HDD, 128MB",
          "shortname": "6Tb Surveillance HDD ",
-         "relevant": "RS300/RS100/RS540/RS520/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500",
+         "relevant": "RS300/RS100/RS500/RS540/RS520/RS500P/TS500/TS300/TS100/RS500E9/RS520E9/RS540E9/RS700E9/RS720E9",
          "subcategory": "Жесткие диски для серверов видеонаблюдения",
-         "price": 210,
-         "availability": 7,
+         "price": 175,
+         "availability": "7",
          "link": ""
       },
       {
          "name": "4Tb Surveillance HDD, 64MB",
          "shortname": "4Tb Surveillance HDD ",
-         "relevant": "RS300/RS100/RS540/RS520/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500",
+         "relevant": "RS300/RS100/RS500/RS540/RS520/RS500P/TS500/TS300/TS100/RS500E9/RS520E9/RS540E9/RS700E9/RS720E9",
          "subcategory": "Жесткие диски для серверов видеонаблюдения",
-         "price": 130,
-         "availability": 7,
+         "price": 110,
+         "availability": "7",
          "link": ""
       },
       {
          "name": "3Tb Surveillance HDD, 64MB",
          "shortname": "3Tb Surveillance HDD ",
-         "relevant": "RS300/RS100/RS540/RS520/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500",
+         "relevant": "RS300/RS100/RS500/RS540/RS520/RS500P/TS500/TS300/TS100/RS500E9/RS520E9/RS540E9/RS700E9/RS720E9",
          "subcategory": "Жесткие диски для серверов видеонаблюдения",
-         "price": 100,
-         "availability": 7,
+         "price": 90,
+         "availability": "7",
          "link": ""
       },
       {
          "name": "2Tb Surveillance HDD, 64MB",
          "shortname": "2Tb Surveillance HDD ",
-         "relevant": "RS300/RS100/RS540/RS520/RS520/RS500/ESC4000/TS700/TS500/TS300/TS100/ESC700/ESC500",
+         "relevant": "RS300/RS100/RS500/RS540/RS520/RS500P/TS500/TS300/TS100/RS500E9/RS520E9/RS540E9/RS700E9/RS720E9",
          "subcategory": "Жесткие диски для серверов видеонаблюдения",
-         "price": 80,
-         "availability": 7,
+         "price": 65,
+         "availability": "7",
          "link": ""
       }
    ],
    "options": [
-      {
-         "name": "RAID контроллер ASUS PIKE II 3108 SAS 12Gb/s RAID 0/1/10/5/6/50/60 /2Gb",
-         "shortname": "PIKE 3108/2Gb ",
-         "relevant": "forall",
-         "subcategory": "Дополнительные опции",
-         "price": 420,
-         "availability": 7,
-         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/PIKE-II-3108-8I-240PD-2G/"
-      },
       {
          "name": "Батарея резервного питания ASUS LSI CACHE VAULT для контроллеров PIKE II 3108/2Gb",
          "shortname": "CacheVault ",
          "relevant": "forall",
          "subcategory": "Дополнительные опции",
          "price": 410,
-         "availability": 7,
+         "availability": "7",
          "link": ""
+      },
+      {
+         "name": "RAID контроллер ASUS PIKE II 3108 SAS 12Gb/s RAID 0/1/10/5/6/50/60 /2Gb",
+         "shortname": "PIKE 3108/2Gb ",
+         "relevant": "forall",
+         "subcategory": "Дополнительные опции",
+         "price": 420,
+         "availability": "30",
+         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/PIKE-II-3108-8I-240PD-2G/"
       },
       {
          "name": "RAID контроллер ASUS PIKE II 3008 SAS 12Gb/s RAID 0/1/1E/10",
@@ -781,7 +754,7 @@
          "relevant": "forall",
          "subcategory": "Дополнительные опции",
          "price": 180,
-         "availability": 30,
+         "availability": "7",
          "link": "https://www.asus.com/us/Commercial-Servers-Workstations/PIKE_II_30088i/"
       },
       {
@@ -790,52 +763,61 @@
          "relevant": "forall",
          "subcategory": "Дополнительные опции",
          "price": 40,
-         "availability": 30,
+         "availability": "7",
          "link": "https://www.asus.com/us/Commercial-Servers-Workstations/ASMB8iKVM/"
       },
       {
-         "name": "Сетевой контроллер Intel i350-T2 Dual Port Gigabit Server Adapter (I350T2V2BLK, PCI-E x4, FDX, 2x 1000BASE-T, VMDq)",
-         "shortname": "(4)GbE ",
+         "name": "Сетевой контроллер Dual Port Gigabit Server Adapter (Intel i350AM2)",
+         "shortname": "2GbE",
          "relevant": "forall",
          "subcategory": "Дополнительные опции",
-         "price": 130,
-         "availability": 7,
+         "price": 100,
+         "availability": "14",
          "link": ""
       },
       {
-         "name": "Сетевой контроллер ASUS PEB-10G/57840-2T (BCM 57840S Dual Port 10Gbit BASE-T RJ-45 LP, PCI-E)",
-         "shortname": "(2)10GbT ",
+         "name": "Сетевой контроллер Quad Port Gigabit Server Adapter (Intel i350T4)",
+         "shortname": "4GbE",
          "relevant": "forall",
          "subcategory": "Дополнительные опции",
-         "price": 210,
-         "availability": 7,
-         "link": "https://www.asus.com/ru/Commercial-Servers-Workstations/PEB10G578402T/"
+         "price": 190,
+         "availability": "14",
+         "link": ""
       },
       {
-         "name": "Сетевой контроллер ASUS PEB-10G/57840-2S (BCM 57840S Dual Port 10Gbit SFP+ LC Fiber Optic LP, PCI-E)",
-         "shortname": "(2)10Gb SFP+ ",
+         "name": "Сетевой контроллер ASUS Dual Port 10Gbit BASE-T RJ-45",
+         "shortname": "2х10GbT",
          "relevant": "forall",
          "subcategory": "Дополнительные опции",
-         "price": 180,
-         "availability": 7,
-         "link": "https://www.asus.com/us/Commercial-Servers-Workstations/PEB10G578402S/"
+         "price": 200,
+         "availability": "7",
+         "link": ""
       },
       {
-         "name": "Сетевой контроллер ASUS MCB-10G-2S (BCM 57840S Dual Port 10Gbit SFP+ LC Fiber Optic LP, OCP (для серверов серий RS5x0/RS7x0)",
-         "shortname": "(2)10Gb SFP+ ",
+         "name": "Сетевой контроллер ASUS Dual Port 10Gbit SFP+ LC Fiber Optic LP",
+         "shortname": "2x10Gb SFP+",
          "relevant": "forall",
          "subcategory": "Дополнительные опции",
-         "price": 170,
-         "availability": 7,
-         "link": "https://www.asus.com/us/Commercial-Servers-Workstations/MCB10G2S/"
+         "price": 200,
+         "availability": "7",
+         "link": ""
       },
       {
          "name": "Рельсы для установки в стойку универсальных платформ TS300/TS500/TS700",
          "shortname": "Rails ",
-         "relevant": "forall",
+         "relevant": "TS300/TS500/TS700",
          "subcategory": "Дополнительные опции",
          "price": 100,
-         "availability": 7,
+         "availability": "30",
+         "link": ""
+      },
+      {
+         "name": "Дополнительная корзина на 4 диска горячей замены для универсальных платформ TS300/TS500",
+         "shortname": "Cage",
+         "relevant": "TS300/TS500",
+         "subcategory": "Дополнительные опции",
+         "price": 100,
+         "availability": "30",
          "link": ""
       }
    ]
